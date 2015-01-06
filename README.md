@@ -2,28 +2,46 @@
 
 ** A Font Awesome based for Gaia **
 
+## Adding more icons
 
 
-## Using
-To write....
+## Adding more icons
+1. Add icon on /svg folder.
+2. Open Terminal and run:
 
 
-## Add more icons
-For add more icons, you need _fontcustom_ installed:
+```sh
+# Update repo
+cd folder/gaia-fontawesome
+git pull origin master
 
+# Generate fonts
+fontcustom compile svg/
+
+# Commit on GitHub
+git add . --all
+git commit -m "Name of icons added"
+git push origin master
+
+```
 
 ### Installing
 
+#### Homebrew
 ```sh
-# On Mac
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+```
+
+#### fontcustom
+```sh
+
 brew install fontforge --with-python
 brew install eot-utils
 gem install fontcustom
 
-# On Linux
-sudo apt-get install fontforge
-wget http://people.mozilla.com/~jkew/woff/woff-code-latest.zip
-unzip woff-code-latest.zip -d sfnt2woff && cd sfnt2woff && make && sudo mv sfnt2woff /usr/local/bin/
-gem install fontcustom
-
+```
+#### gaia-fontawesome repo
+```sh
+cd folder/to/save
+git clone  https://github.com/I-Value/gaia-fontawesome.git
 ```

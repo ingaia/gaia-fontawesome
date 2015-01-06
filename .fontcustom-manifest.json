@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "3fe65b9686b529d87685ebf24d08c36fdbece34f03f9f51b9c2751bf0f7d6c67",
-    "current": "3fe65b9686b529d87685ebf24d08c36fdbece34f03f9f51b9c2751bf0f7d6c67"
+    "previous": "5c443ea81423f54dab9c9c70431c05c6eb09f6721b806c17cc22cdcd6ec335b4",
+    "current": "5c443ea81423f54dab9c9c70431c05c6eb09f6721b806c17cc22cdcd6ec335b4"
   },
   "fonts": [
-    "gaia-fontawesome/gaia-fontawesome_3fe65b9686b529d87685ebf24d08c36f.ttf",
-    "gaia-fontawesome/gaia-fontawesome_3fe65b9686b529d87685ebf24d08c36f.svg",
-    "gaia-fontawesome/gaia-fontawesome_3fe65b9686b529d87685ebf24d08c36f.woff",
-    "gaia-fontawesome/gaia-fontawesome_3fe65b9686b529d87685ebf24d08c36f.eot"
+    "gaia-fontawesome/gaia-fontawesome_5c443ea81423f54dab9c9c70431c05c6.ttf",
+    "gaia-fontawesome/gaia-fontawesome_5c443ea81423f54dab9c9c70431c05c6.svg",
+    "gaia-fontawesome/gaia-fontawesome_5c443ea81423f54dab9c9c70431c05c6.woff",
+    "gaia-fontawesome/gaia-fontawesome_5c443ea81423f54dab9c9c70431c05c6.eot"
   ],
   "glyphs": {
     "garage-01": {
@@ -23,7 +23,7 @@
     "autowidth": true,
     "base64": true,
     "config": "fontcustom.yml",
-    "css_selector": ".fa-gaia-{{glyph}}",
+    "css_selector": ".ga-{{glyph}}",
     "debug": false,
     "font_ascent": 448,
     "font_descent": 64,
@@ -32,8 +32,8 @@
     "font_name": "gaia-fontawesome",
     "force": false,
     "input": {
-      "templates": "svg",
-      "vectors": "svg"
+      "templates": "svg/",
+      "vectors": "svg/"
     },
     "no_hash": false,
     "output": {

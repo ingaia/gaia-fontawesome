@@ -13,7 +13,7 @@
 font_name: gaia-fontawesome
 
 # Format of CSS selectors. {{glyph}} is substituted for the glyph name.
-css_selector: .fa-gaia-{{glyph}}
+css_selector: .ga-{{glyph}}
 
 # Generate fonts without asset-busting hashes.
 #no_hash: true
