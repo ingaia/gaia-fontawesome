@@ -1,0 +1,57 @@
+{
+  "checksum": {
+    "previous": "3fe65b9686b529d87685ebf24d08c36fdbece34f03f9f51b9c2751bf0f7d6c67",
+    "current": "3fe65b9686b529d87685ebf24d08c36fdbece34f03f9f51b9c2751bf0f7d6c67"
+  },
+  "fonts": [
+    "gaia-fontawesome/gaia-fontawesome_3fe65b9686b529d87685ebf24d08c36f.ttf",
+    "gaia-fontawesome/gaia-fontawesome_3fe65b9686b529d87685ebf24d08c36f.svg",
+    "gaia-fontawesome/gaia-fontawesome_3fe65b9686b529d87685ebf24d08c36f.woff",
+    "gaia-fontawesome/gaia-fontawesome_3fe65b9686b529d87685ebf24d08c36f.eot"
+  ],
+  "glyphs": {
+    "garage-01": {
+      "codepoint": 61696,
+      "source": "svg/garage-01.svg"
+    },
+    "garage-02": {
+      "codepoint": 61697,
+      "source": "svg/garage-02.svg"
+    }
+  },
+  "options": {
+    "autowidth": true,
+    "base64": true,
+    "config": "fontcustom.yml",
+    "css_selector": ".fa-gaia-{{glyph}}",
+    "debug": false,
+    "font_ascent": 448,
+    "font_descent": 64,
+    "font_design_size": 16,
+    "font_em": 512,
+    "font_name": "gaia-fontawesome",
+    "force": false,
+    "input": {
+      "templates": "svg",
+      "vectors": "svg"
+    },
+    "no_hash": false,
+    "output": {
+      "css": "gaia-fontawesome",
+      "fonts": "gaia-fontawesome",
+      "preview": "gaia-fontawesome"
+    },
+    "preprocessor_path": null,
+    "quiet": false,
+    "templates": [
+      "scss-rails",
+      "css",
+      "preview"
+    ]
+  },
+  "templates": [
+    "gaia-fontawesome/_gaia-fontawesome-rails.scss",
+    "gaia-fontawesome/gaia-fontawesome.css",
+    "gaia-fontawesome/gaia-fontawesome-preview.html"
+  ]
+}

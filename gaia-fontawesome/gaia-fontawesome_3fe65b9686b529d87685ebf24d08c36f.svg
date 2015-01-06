@@ -1,0 +1,38 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2015-1-6: Created with FontForge (http://fontforge.org)
+-->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+<metadata>
+Created by FontForge 20141127 at Tue Jan  6 09:28:50 2015
+ By Jessé Pinheiro
+Copyright (c) 2015, Jess&#195;&#169; Pinheiro
+</metadata>
+<defs>
+<font id="gaia-fontawesome" horiz-adv-x="512" >
+  <font-face 
+    font-family="gaia-fontawesome"
+    font-weight="400"
+    font-stretch="normal"
+    units-per-em="512"
+    panose-1="2 0 5 3 0 0 0 0 0 0"
+    ascent="448"
+    descent="-64"
+    bbox="0 -10.375 515.269 448"
+    underline-thickness="25.6"
+    underline-position="-51.2"
+    unicode-range="U+F100-F101"
+  />
+    <missing-glyph />
+    <glyph glyph-name="uniF100" unicode="&#xf100;" 
+d="M81 224zM466 301c17 -2 46 -22 46 -59v-138h-41v-44c0 -54 -77 -54 -77 0v44h-138h-138v-44c0 -54 -77 -54 -77 0v44h-41v138c0 37 29 57 46 59l42 108c8 21 26 39 58 39h60h101h59c32 0 50 -18 58 -39zM81 188c20 0 35 16 35 36s-15 36 -35 36s-36 -16 -36 -36
+s16 -36 36 -36zM256 302h166l-31 85c-4 12 -10 21 -24 21h-111v0h-111c-14 0 -20 -9 -24 -21l-31 -85h166v0zM431 188c19 0 36 16 36 36s-17 36 -36 36c-20 0 -35 -16 -35 -36s15 -36 35 -36zM431 224z" />
+    <glyph glyph-name="uniF101" unicode="&#xf101;" horiz-adv-x="515" 
+d="M512 220c2 -21 5 -62 2 -85c-4 -22 -14 -36 -25 -47c-12 -11 -26 -17 -44 -17c1 -23 1 -40 0 -53s0 -18 -5 -23c-6 -5 -21 -5 -29 -5c-9 -1 -17 0 -22 3c-4 4 -3 7 -4 20s-2 33 -3 59h-250c0 -26 0 -46 -1 -59s0 -16 -4 -20c-5 -3 -14 -4 -23 -3c-9 0 -23 0 -29 5
+s-4 10 -5 23s-1 30 0 53c-18 0 -33 6 -44 17c-12 11 -20 25 -24 47c-4 23 0 64 2 85s2 18 10 41s25 69 38 96s26 52 36 66c9 14 12 15 21 19s22 3 34 4s25 2 39 2h152c13 0 27 -1 39 -2s24 0 33 -4s12 -5 22 -19s23 -39 36 -66c12 -27 29 -73 37 -96s9 -20 11 -41zM76 127
+c27 0 48 21 48 48s-21 49 -48 49s-48 -22 -48 -49s21 -48 48 -48zM326 136c14 0 26 8 26 18s-12 17 -26 17h-137c-14 0 -25 -7 -25 -17s11 -18 25 -18h137zM326 184c14 0 26 7 26 17s-12 18 -26 18h-137c-14 0 -25 -8 -25 -18s11 -17 25 -17h137zM348 276c39 0 37 0 53 1
+s34 2 42 7s7 11 5 21c-2 11 -10 26 -16 41c-7 16 -16 39 -23 51s-10 16 -17 20c-8 5 -17 6 -27 7s-21 2 -33 1h-149c-12 1 -23 0 -33 -1s-19 -2 -26 -7c-7 -4 -11 -8 -18 -20s-16 -35 -23 -51c-7 -15 -13 -30 -15 -41c-2 -10 -3 -16 5 -21s26 -6 42 -7s12 -1 51 -1h182z
+M439 127c27 0 48 21 48 48s-21 49 -48 49s-48 -22 -48 -49s21 -48 48 -48z" />
+  </font>
+</defs></svg>
