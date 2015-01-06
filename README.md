@@ -1,4 +1,3 @@
-
 # Gaia FontAwesome
 
 ** A Font Awesome based for Gaia **
