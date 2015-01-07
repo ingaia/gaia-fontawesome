@@ -1,15 +1,31 @@
 {
   "checksum": {
-    "previous": "5c443ea81423f54dab9c9c70431c05c6eb09f6721b806c17cc22cdcd6ec335b4",
-    "current": "5c443ea81423f54dab9c9c70431c05c6eb09f6721b806c17cc22cdcd6ec335b4"
+    "previous": "e64e32c3403e4d76f70cb07bbecd730d4eab51630f6705e02aee63c1ccf08b0b",
+    "current": "e64e32c3403e4d76f70cb07bbecd730d4eab51630f6705e02aee63c1ccf08b0b"
   },
   "fonts": [
-    "gaia-fontawesome/gaia-fontawesome_5c443ea81423f54dab9c9c70431c05c6.ttf",
-    "gaia-fontawesome/gaia-fontawesome_5c443ea81423f54dab9c9c70431c05c6.svg",
-    "gaia-fontawesome/gaia-fontawesome_5c443ea81423f54dab9c9c70431c05c6.woff",
-    "gaia-fontawesome/gaia-fontawesome_5c443ea81423f54dab9c9c70431c05c6.eot"
+    "gaia-fontawesome/gaia-fontawesome_e64e32c3403e4d76f70cb07bbecd730d.ttf",
+    "gaia-fontawesome/gaia-fontawesome_e64e32c3403e4d76f70cb07bbecd730d.svg",
+    "gaia-fontawesome/gaia-fontawesome_e64e32c3403e4d76f70cb07bbecd730d.woff",
+    "gaia-fontawesome/gaia-fontawesome_e64e32c3403e4d76f70cb07bbecd730d.eot"
   ],
   "glyphs": {
+    "bathroom-01": {
+      "codepoint": 61699,
+      "source": "svg/bathroom-01.svg"
+    },
+    "bathroom-02": {
+      "codepoint": 61700,
+      "source": "svg/bathroom-02.svg"
+    },
+    "call-center-01": {
+      "codepoint": 61701,
+      "source": "svg/call-center-01.svg"
+    },
+    "doc-upload-01": {
+      "codepoint": 61702,
+      "source": "svg/doc-upload-01.svg"
+    },
     "garage-01": {
       "codepoint": 61696,
       "source": "svg/garage-01.svg"
@@ -17,6 +33,22 @@
     "garage-02": {
       "codepoint": 61697,
       "source": "svg/garage-02.svg"
+    },
+    "mobile-phone-02": {
+      "codepoint": 61703,
+      "source": "svg/mobile-phone-02.svg"
+    },
+    "money-01": {
+      "codepoint": 61704,
+      "source": "svg/money-01.svg"
+    },
+    "ruler": {
+      "codepoint": 61705,
+      "source": "svg/ruler.svg"
+    },
+    "sign-sell-01": {
+      "codepoint": 61698,
+      "source": "svg/sign-sell-01.svg"
     }
   },
   "options": {

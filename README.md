@@ -34,7 +34,7 @@ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/
 
 #### fontcustom
 ```sh
-
+brew install Caskroom/cask/xquartz
 brew install fontforge --with-python
 brew install eot-utils
 gem install fontcustom
