@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "e64e32c3403e4d76f70cb07bbecd730d4eab51630f6705e02aee63c1ccf08b0b",
-    "current": "e64e32c3403e4d76f70cb07bbecd730d4eab51630f6705e02aee63c1ccf08b0b"
+    "previous": "81967cac77f3e5abff6f795f902c90fcb5322a498cca15cf6b0021027a8811c2",
+    "current": "81967cac77f3e5abff6f795f902c90fcb5322a498cca15cf6b0021027a8811c2"
   },
   "fonts": [
-    "gaia-fontawesome/gaia-fontawesome_e64e32c3403e4d76f70cb07bbecd730d.ttf",
-    "gaia-fontawesome/gaia-fontawesome_e64e32c3403e4d76f70cb07bbecd730d.svg",
-    "gaia-fontawesome/gaia-fontawesome_e64e32c3403e4d76f70cb07bbecd730d.woff",
-    "gaia-fontawesome/gaia-fontawesome_e64e32c3403e4d76f70cb07bbecd730d.eot"
+    "gaia-fontawesome/gaia-fontawesome_81967cac77f3e5abff6f795f902c90fc.ttf",
+    "gaia-fontawesome/gaia-fontawesome_81967cac77f3e5abff6f795f902c90fc.svg",
+    "gaia-fontawesome/gaia-fontawesome_81967cac77f3e5abff6f795f902c90fc.woff",
+    "gaia-fontawesome/gaia-fontawesome_81967cac77f3e5abff6f795f902c90fc.eot"
   ],
   "glyphs": {
     "bathroom-01": {
@@ -18,9 +18,29 @@
       "codepoint": 61700,
       "source": "svg/bathroom-02.svg"
     },
+    "bedrooms-01": {
+      "codepoint": 61706,
+      "source": "svg/bedrooms-01.svg"
+    },
     "call-center-01": {
       "codepoint": 61701,
       "source": "svg/call-center-01.svg"
+    },
+    "chat-01": {
+      "codepoint": 61707,
+      "source": "svg/chat-01.svg"
+    },
+    "cloud-01": {
+      "codepoint": 61708,
+      "source": "svg/cloud-01.svg"
+    },
+    "connection-01": {
+      "codepoint": 61709,
+      "source": "svg/connection-01.svg"
+    },
+    "dashboard-01": {
+      "codepoint": 61710,
+      "source": "svg/dashboard-01.svg"
     },
     "doc-upload-01": {
       "codepoint": 61702,
@@ -42,9 +62,17 @@
       "codepoint": 61704,
       "source": "svg/money-01.svg"
     },
+    "radar-01": {
+      "codepoint": 61711,
+      "source": "svg/radar-01.svg"
+    },
     "ruler": {
       "codepoint": 61705,
       "source": "svg/ruler.svg"
+    },
+    "security-01": {
+      "codepoint": 61712,
+      "source": "svg/security-01.svg"
     },
     "sign-sell-01": {
       "codepoint": 61698,
