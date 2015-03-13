@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "81967cac77f3e5abff6f795f902c90fcb5322a498cca15cf6b0021027a8811c2",
-    "current": "81967cac77f3e5abff6f795f902c90fcb5322a498cca15cf6b0021027a8811c2"
+    "previous": "aeb52b37d1d3eea29c721b172a49d910d166be5e241f983ec01be108ac979523",
+    "current": "aeb52b37d1d3eea29c721b172a49d910d166be5e241f983ec01be108ac979523"
   },
   "fonts": [
-    "gaia-fontawesome/gaia-fontawesome_81967cac77f3e5abff6f795f902c90fc.ttf",
-    "gaia-fontawesome/gaia-fontawesome_81967cac77f3e5abff6f795f902c90fc.svg",
-    "gaia-fontawesome/gaia-fontawesome_81967cac77f3e5abff6f795f902c90fc.woff",
-    "gaia-fontawesome/gaia-fontawesome_81967cac77f3e5abff6f795f902c90fc.eot"
+    "gaia-fontawesome/gaia-fontawesome_aeb52b37d1d3eea29c721b172a49d910.ttf",
+    "gaia-fontawesome/gaia-fontawesome_aeb52b37d1d3eea29c721b172a49d910.svg",
+    "gaia-fontawesome/gaia-fontawesome_aeb52b37d1d3eea29c721b172a49d910.woff",
+    "gaia-fontawesome/gaia-fontawesome_aeb52b37d1d3eea29c721b172a49d910.eot"
   ],
   "glyphs": {
     "bathroom-01": {
@@ -30,9 +30,17 @@
       "codepoint": 61707,
       "source": "svg/chat-01.svg"
     },
+    "check-01": {
+      "codepoint": 61713,
+      "source": "svg/check-01.svg"
+    },
     "cloud-01": {
       "codepoint": 61708,
       "source": "svg/cloud-01.svg"
+    },
+    "code-01": {
+      "codepoint": 61714,
+      "source": "svg/code-01.svg"
     },
     "connection-01": {
       "codepoint": 61709,
@@ -41,6 +49,14 @@
     "dashboard-01": {
       "codepoint": 61710,
       "source": "svg/dashboard-01.svg"
+    },
+    "dashboard-02": {
+      "codepoint": 61715,
+      "source": "svg/dashboard-02.svg"
+    },
+    "doc-01": {
+      "codepoint": 61716,
+      "source": "svg/doc-01.svg"
     },
     "doc-upload-01": {
       "codepoint": 61702,
@@ -54,6 +70,10 @@
       "codepoint": 61697,
       "source": "svg/garage-02.svg"
     },
+    "launch-01": {
+      "codepoint": 61717,
+      "source": "svg/launch-01.svg"
+    },
     "mobile-phone-02": {
       "codepoint": 61703,
       "source": "svg/mobile-phone-02.svg"
@@ -62,9 +82,17 @@
       "codepoint": 61704,
       "source": "svg/money-01.svg"
     },
+    "popup-01": {
+      "codepoint": 61718,
+      "source": "svg/popup-01.svg"
+    },
     "radar-01": {
       "codepoint": 61711,
       "source": "svg/radar-01.svg"
+    },
+    "responsive-01": {
+      "codepoint": 61719,
+      "source": "svg/responsive-01.svg"
     },
     "ruler": {
       "codepoint": 61705,
