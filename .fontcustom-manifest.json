@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "aeb52b37d1d3eea29c721b172a49d910d166be5e241f983ec01be108ac979523",
-    "current": "aeb52b37d1d3eea29c721b172a49d910d166be5e241f983ec01be108ac979523"
+    "previous": "a455da4c29f33ca5ae7a09a12e864321491b1238e5fb0c05269f233f1bd0a825",
+    "current": "a455da4c29f33ca5ae7a09a12e864321491b1238e5fb0c05269f233f1bd0a825"
   },
   "fonts": [
-    "gaia-fontawesome/gaia-fontawesome_aeb52b37d1d3eea29c721b172a49d910.ttf",
-    "gaia-fontawesome/gaia-fontawesome_aeb52b37d1d3eea29c721b172a49d910.svg",
-    "gaia-fontawesome/gaia-fontawesome_aeb52b37d1d3eea29c721b172a49d910.woff",
-    "gaia-fontawesome/gaia-fontawesome_aeb52b37d1d3eea29c721b172a49d910.eot"
+    "gaia-fontawesome/gaia-fontawesome_a455da4c29f33ca5ae7a09a12e864321.ttf",
+    "gaia-fontawesome/gaia-fontawesome_a455da4c29f33ca5ae7a09a12e864321.svg",
+    "gaia-fontawesome/gaia-fontawesome_a455da4c29f33ca5ae7a09a12e864321.woff",
+    "gaia-fontawesome/gaia-fontawesome_a455da4c29f33ca5ae7a09a12e864321.eot"
   ],
   "glyphs": {
     "bathroom-01": {
@@ -81,6 +81,18 @@
     "money-01": {
       "codepoint": 61704,
       "source": "svg/money-01.svg"
+    },
+    "partner-01": {
+      "codepoint": 61720,
+      "source": "svg/partner-01.svg"
+    },
+    "partner-02": {
+      "codepoint": 61721,
+      "source": "svg/partner-02.svg"
+    },
+    "partner-03": {
+      "codepoint": 61722,
+      "source": "svg/partner-03.svg"
     },
     "popup-01": {
       "codepoint": 61718,
