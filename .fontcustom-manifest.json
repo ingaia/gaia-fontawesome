@@ -1,15 +1,19 @@
 {
   "checksum": {
-    "previous": "5d3fea11f413929585130486148f03615d14d9223a55951a40206e15f8c4da84",
-    "current": "5d3fea11f413929585130486148f03615d14d9223a55951a40206e15f8c4da84"
+    "previous": "11737553d76ba2c346a9d264dda3f62c653ae1c49c4cde181aa8d831d4e9c2ef",
+    "current": "11737553d76ba2c346a9d264dda3f62c653ae1c49c4cde181aa8d831d4e9c2ef"
   },
   "fonts": [
-    "gaia-fontawesome/gaia-fontawesome_5d3fea11f413929585130486148f0361.ttf",
-    "gaia-fontawesome/gaia-fontawesome_5d3fea11f413929585130486148f0361.svg",
-    "gaia-fontawesome/gaia-fontawesome_5d3fea11f413929585130486148f0361.woff",
-    "gaia-fontawesome/gaia-fontawesome_5d3fea11f413929585130486148f0361.eot"
+    "gaia-fontawesome/gaia-fontawesome_11737553d76ba2c346a9d264dda3f62c.ttf",
+    "gaia-fontawesome/gaia-fontawesome_11737553d76ba2c346a9d264dda3f62c.svg",
+    "gaia-fontawesome/gaia-fontawesome_11737553d76ba2c346a9d264dda3f62c.woff",
+    "gaia-fontawesome/gaia-fontawesome_11737553d76ba2c346a9d264dda3f62c.eot"
   ],
   "glyphs": {
+    "agenda-01": {
+      "codepoint": 61733,
+      "source": "svg/agenda-01.svg"
+    },
     "bathroom-01": {
       "codepoint": 61699,
       "source": "svg/bathroom-01.svg"
@@ -30,13 +34,17 @@
       "codepoint": 61707,
       "source": "svg/chat-01.svg"
     },
-    "check": {
-      "codepoint": 61728,
-      "source": "svg/check.svg"
-    },
     "check-01": {
       "codepoint": 61713,
       "source": "svg/check-01.svg"
+    },
+    "check-02": {
+      "codepoint": 61730,
+      "source": "svg/check-02.svg"
+    },
+    "check-03": {
+      "codepoint": 61734,
+      "source": "svg/check-03.svg"
     },
     "claro-01": {
       "codepoint": 61723,
@@ -49,6 +57,10 @@
     "code-01": {
       "codepoint": 61714,
       "source": "svg/code-01.svg"
+    },
+    "condominios-01": {
+      "codepoint": 61735,
+      "source": "svg/condominios-01.svg"
     },
     "connection-01": {
       "codepoint": 61709,
@@ -77,6 +89,10 @@
     "garage-02": {
       "codepoint": 61697,
       "source": "svg/garage-02.svg"
+    },
+    "headset-01": {
+      "codepoint": 61731,
+      "source": "svg/headset-01.svg"
     },
     "launch-01": {
       "codepoint": 61717,
@@ -110,9 +126,9 @@
       "codepoint": 61722,
       "source": "svg/partner-03.svg"
     },
-    "plus": {
-      "codepoint": 61729,
-      "source": "svg/plus.svg"
+    "plus-01": {
+      "codepoint": 61732,
+      "source": "svg/plus-01.svg"
     },
     "popup-01": {
       "codepoint": 61718,
