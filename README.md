@@ -4,6 +4,8 @@
 
 ## Adding more icons
 
+1. cd ~/Projetos/gaia-fontawesome/
+
 
 ## Adding more icons
 1. Add icon on /svg folder.
