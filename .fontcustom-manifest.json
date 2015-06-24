@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "11737553d76ba2c346a9d264dda3f62c653ae1c49c4cde181aa8d831d4e9c2ef",
-    "current": "11737553d76ba2c346a9d264dda3f62c653ae1c49c4cde181aa8d831d4e9c2ef"
+    "previous": "4ab69d3ccc3470e6502e4da4ec5bc802532bb0c5ef0ba3e4a90fdd79fd928ae3",
+    "current": "4ab69d3ccc3470e6502e4da4ec5bc802532bb0c5ef0ba3e4a90fdd79fd928ae3"
   },
   "fonts": [
-    "gaia-fontawesome/gaia-fontawesome_11737553d76ba2c346a9d264dda3f62c.ttf",
-    "gaia-fontawesome/gaia-fontawesome_11737553d76ba2c346a9d264dda3f62c.svg",
-    "gaia-fontawesome/gaia-fontawesome_11737553d76ba2c346a9d264dda3f62c.woff",
-    "gaia-fontawesome/gaia-fontawesome_11737553d76ba2c346a9d264dda3f62c.eot"
+    "gaia-fontawesome/gaia-fontawesome_4ab69d3ccc3470e6502e4da4ec5bc802.ttf",
+    "gaia-fontawesome/gaia-fontawesome_4ab69d3ccc3470e6502e4da4ec5bc802.svg",
+    "gaia-fontawesome/gaia-fontawesome_4ab69d3ccc3470e6502e4da4ec5bc802.woff",
+    "gaia-fontawesome/gaia-fontawesome_4ab69d3ccc3470e6502e4da4ec5bc802.eot"
   ],
   "glyphs": {
     "agenda-01": {
@@ -33,6 +33,10 @@
     "chat-01": {
       "codepoint": 61707,
       "source": "svg/chat-01.svg"
+    },
+    "chat-doubt-02": {
+      "codepoint": 61736,
+      "source": "svg/chat-doubt-02.svg"
     },
     "check-01": {
       "codepoint": 61713,
@@ -90,6 +94,10 @@
       "codepoint": 61697,
       "source": "svg/garage-02.svg"
     },
+    "hand-01": {
+      "codepoint": 61737,
+      "source": "svg/hand-01.svg"
+    },
     "headset-01": {
       "codepoint": 61731,
       "source": "svg/headset-01.svg"
@@ -98,6 +106,10 @@
       "codepoint": 61717,
       "source": "svg/launch-01.svg"
     },
+    "menu-circles-01": {
+      "codepoint": 61738,
+      "source": "svg/menu-circles-01.svg"
+    },
     "mobile-phone-02": {
       "codepoint": 61703,
       "source": "svg/mobile-phone-02.svg"
@@ -105,6 +117,10 @@
     "money-01": {
       "codepoint": 61704,
       "source": "svg/money-01.svg"
+    },
+    "money-user-02": {
+      "codepoint": 61739,
+      "source": "svg/money-user-02.svg"
     },
     "nextel-01": {
       "codepoint": 61724,
