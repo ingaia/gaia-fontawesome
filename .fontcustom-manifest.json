@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "af0665b5b8c2c7301105bf15796478c80950df12ddfcce5a84b0400cd7e6c8d4",
-    "current": "af0665b5b8c2c7301105bf15796478c80950df12ddfcce5a84b0400cd7e6c8d4"
+    "previous": "64bc082842d931643cf3aa99439f7598636b856d4ced63e9247ae5728dbad6ae",
+    "current": "64bc082842d931643cf3aa99439f7598636b856d4ced63e9247ae5728dbad6ae"
   },
   "fonts": [
-    "gaia-fontawesome/gaia-fontawesome_af0665b5b8c2c7301105bf15796478c8.ttf",
-    "gaia-fontawesome/gaia-fontawesome_af0665b5b8c2c7301105bf15796478c8.svg",
-    "gaia-fontawesome/gaia-fontawesome_af0665b5b8c2c7301105bf15796478c8.woff",
-    "gaia-fontawesome/gaia-fontawesome_af0665b5b8c2c7301105bf15796478c8.eot"
+    "gaia-fontawesome/gaia-fontawesome_64bc082842d931643cf3aa99439f7598.ttf",
+    "gaia-fontawesome/gaia-fontawesome_64bc082842d931643cf3aa99439f7598.svg",
+    "gaia-fontawesome/gaia-fontawesome_64bc082842d931643cf3aa99439f7598.woff",
+    "gaia-fontawesome/gaia-fontawesome_64bc082842d931643cf3aa99439f7598.eot"
   ],
   "glyphs": {
     "agenda-01": {
@@ -42,9 +42,9 @@
       "codepoint": 61707,
       "source": "svg/chat-01.svg"
     },
-    "chat-doubt-02": {
-      "codepoint": 61736,
-      "source": "svg/chat-doubt-02.svg"
+    "chat-question-02": {
+      "codepoint": 61743,
+      "source": "svg/chat-question-02.svg"
     },
     "check-01": {
       "codepoint": 61713,
