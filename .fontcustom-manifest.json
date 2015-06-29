@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "4ab69d3ccc3470e6502e4da4ec5bc802532bb0c5ef0ba3e4a90fdd79fd928ae3",
-    "current": "4ab69d3ccc3470e6502e4da4ec5bc802532bb0c5ef0ba3e4a90fdd79fd928ae3"
+    "previous": "ecf6260485f65c0aae56cca5732a3034c4ab48a89b03c60b13bc94a3fdfa16bf",
+    "current": "ecf6260485f65c0aae56cca5732a3034c4ab48a89b03c60b13bc94a3fdfa16bf"
   },
   "fonts": [
-    "gaia-fontawesome/gaia-fontawesome_4ab69d3ccc3470e6502e4da4ec5bc802.ttf",
-    "gaia-fontawesome/gaia-fontawesome_4ab69d3ccc3470e6502e4da4ec5bc802.svg",
-    "gaia-fontawesome/gaia-fontawesome_4ab69d3ccc3470e6502e4da4ec5bc802.woff",
-    "gaia-fontawesome/gaia-fontawesome_4ab69d3ccc3470e6502e4da4ec5bc802.eot"
+    "gaia-fontawesome/gaia-fontawesome_ecf6260485f65c0aae56cca5732a3034.ttf",
+    "gaia-fontawesome/gaia-fontawesome_ecf6260485f65c0aae56cca5732a3034.svg",
+    "gaia-fontawesome/gaia-fontawesome_ecf6260485f65c0aae56cca5732a3034.woff",
+    "gaia-fontawesome/gaia-fontawesome_ecf6260485f65c0aae56cca5732a3034.eot"
   ],
   "glyphs": {
     "agenda-01": {
@@ -69,6 +69,10 @@
     "connection-01": {
       "codepoint": 61709,
       "source": "svg/connection-01.svg"
+    },
+    "customer-service-call-center-01": {
+      "codepoint": 61740,
+      "source": "svg/customer-service-call-center-01.svg"
     },
     "dashboard-01": {
       "codepoint": 61710,
