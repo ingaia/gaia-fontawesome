@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "ecf6260485f65c0aae56cca5732a3034c4ab48a89b03c60b13bc94a3fdfa16bf",
-    "current": "ecf6260485f65c0aae56cca5732a3034c4ab48a89b03c60b13bc94a3fdfa16bf"
+    "previous": "af0665b5b8c2c7301105bf15796478c80950df12ddfcce5a84b0400cd7e6c8d4",
+    "current": "af0665b5b8c2c7301105bf15796478c80950df12ddfcce5a84b0400cd7e6c8d4"
   },
   "fonts": [
-    "gaia-fontawesome/gaia-fontawesome_ecf6260485f65c0aae56cca5732a3034.ttf",
-    "gaia-fontawesome/gaia-fontawesome_ecf6260485f65c0aae56cca5732a3034.svg",
-    "gaia-fontawesome/gaia-fontawesome_ecf6260485f65c0aae56cca5732a3034.woff",
-    "gaia-fontawesome/gaia-fontawesome_ecf6260485f65c0aae56cca5732a3034.eot"
+    "gaia-fontawesome/gaia-fontawesome_af0665b5b8c2c7301105bf15796478c8.ttf",
+    "gaia-fontawesome/gaia-fontawesome_af0665b5b8c2c7301105bf15796478c8.svg",
+    "gaia-fontawesome/gaia-fontawesome_af0665b5b8c2c7301105bf15796478c8.woff",
+    "gaia-fontawesome/gaia-fontawesome_af0665b5b8c2c7301105bf15796478c8.eot"
   ],
   "glyphs": {
     "agenda-01": {
@@ -29,6 +29,14 @@
     "call-center-01": {
       "codepoint": 61701,
       "source": "svg/call-center-01.svg"
+    },
+    "call-center-02": {
+      "codepoint": 61741,
+      "source": "svg/call-center-02.svg"
+    },
+    "call-center-03": {
+      "codepoint": 61742,
+      "source": "svg/call-center-03.svg"
     },
     "chat-01": {
       "codepoint": 61707,
@@ -70,10 +78,6 @@
       "codepoint": 61709,
       "source": "svg/connection-01.svg"
     },
-    "customer-service-call-center-01": {
-      "codepoint": 61740,
-      "source": "svg/customer-service-call-center-01.svg"
-    },
     "dashboard-01": {
       "codepoint": 61710,
       "source": "svg/dashboard-01.svg"
@@ -101,10 +105,6 @@
     "hand-01": {
       "codepoint": 61737,
       "source": "svg/hand-01.svg"
-    },
-    "headset-01": {
-      "codepoint": 61731,
-      "source": "svg/headset-01.svg"
     },
     "launch-01": {
       "codepoint": 61717,
