@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "08d66201b77dd5addce13ae5940e105808c255442696967fb1877b144f385fde",
-    "current": "08d66201b77dd5addce13ae5940e105808c255442696967fb1877b144f385fde"
+    "previous": "fffcfcee60c00bc2b367a03000466a584ceaf79e09e649f18aebba62295e5455",
+    "current": "fffcfcee60c00bc2b367a03000466a584ceaf79e09e649f18aebba62295e5455"
   },
   "fonts": [
-    "gaia-fontawesome/gaia-fontawesome_08d66201b77dd5addce13ae5940e1058.ttf",
-    "gaia-fontawesome/gaia-fontawesome_08d66201b77dd5addce13ae5940e1058.svg",
-    "gaia-fontawesome/gaia-fontawesome_08d66201b77dd5addce13ae5940e1058.woff",
-    "gaia-fontawesome/gaia-fontawesome_08d66201b77dd5addce13ae5940e1058.eot"
+    "gaia-fontawesome/gaia-fontawesome_fffcfcee60c00bc2b367a03000466a58.ttf",
+    "gaia-fontawesome/gaia-fontawesome_fffcfcee60c00bc2b367a03000466a58.svg",
+    "gaia-fontawesome/gaia-fontawesome_fffcfcee60c00bc2b367a03000466a58.woff",
+    "gaia-fontawesome/gaia-fontawesome_fffcfcee60c00bc2b367a03000466a58.eot"
   ],
   "glyphs": {
     "agenda-01": {
@@ -69,6 +69,10 @@
     "code-01": {
       "codepoint": 61714,
       "source": "svg/code-01.svg"
+    },
+    "commercial-01": {
+      "codepoint": 61745,
+      "source": "svg/commercial-01.svg"
     },
     "condominios-01": {
       "codepoint": 61735,
@@ -162,6 +166,14 @@
       "codepoint": 61711,
       "source": "svg/radar-01.svg"
     },
+    "radar-02": {
+      "codepoint": 61748,
+      "source": "svg/radar-02.svg"
+    },
+    "residential-01": {
+      "codepoint": 61746,
+      "source": "svg/residential-01.svg"
+    },
     "responsive-01": {
       "codepoint": 61719,
       "source": "svg/responsive-01.svg"
@@ -181,6 +193,10 @@
     "tim-01": {
       "codepoint": 61726,
       "source": "svg/tim-01.svg"
+    },
+    "tower-01": {
+      "codepoint": 61747,
+      "source": "svg/tower-01.svg"
     },
     "vivo-01": {
       "codepoint": 61727,

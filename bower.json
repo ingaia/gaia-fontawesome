@@ -1,0 +1,16 @@
+{
+  "name": "gaia-fontawesome",
+  "version": "1.0.0",
+  "homepage": "https://github.com/I-Value/gaia-fontawesome",
+  "authors": [
+    "Jessé Pinheiro <jessebpinheiro@hotmail.com>"
+  ],
+  "description": "A FontAwesome complement",
+  "main": "gaia-fontawesome/gaia-fontawesome.css",
+  "keywords": [
+    "fontawesome",
+    "gaia-fontawesome",
+    "valuegaia"
+  ],
+  "license": "MIT"
+}
