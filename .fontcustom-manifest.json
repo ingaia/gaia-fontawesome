@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "bb0c4d7e06b40723ccc11d5ed66e08b024bea685f1657360178b2dfd62f2b202",
-    "current": "bb0c4d7e06b40723ccc11d5ed66e08b024bea685f1657360178b2dfd62f2b202"
+    "previous": "5b2850d7908d297467e462c61e81c4ae46fde120977c7d4ff8bb198eb5d22e57",
+    "current": "5b2850d7908d297467e462c61e81c4ae46fde120977c7d4ff8bb198eb5d22e57"
   },
   "fonts": [
-    "gaia-fontawesome/gaia-fontawesome_bb0c4d7e06b40723ccc11d5ed66e08b0.ttf",
-    "gaia-fontawesome/gaia-fontawesome_bb0c4d7e06b40723ccc11d5ed66e08b0.svg",
-    "gaia-fontawesome/gaia-fontawesome_bb0c4d7e06b40723ccc11d5ed66e08b0.woff",
-    "gaia-fontawesome/gaia-fontawesome_bb0c4d7e06b40723ccc11d5ed66e08b0.eot"
+    "gaia-fontawesome/gaia-fontawesome_5b2850d7908d297467e462c61e81c4ae.ttf",
+    "gaia-fontawesome/gaia-fontawesome_5b2850d7908d297467e462c61e81c4ae.svg",
+    "gaia-fontawesome/gaia-fontawesome_5b2850d7908d297467e462c61e81c4ae.woff",
+    "gaia-fontawesome/gaia-fontawesome_5b2850d7908d297467e462c61e81c4ae.eot"
   ],
   "glyphs": {
     "agenda-01": {
