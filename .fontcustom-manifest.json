@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "fffcfcee60c00bc2b367a03000466a584ceaf79e09e649f18aebba62295e5455",
-    "current": "fffcfcee60c00bc2b367a03000466a584ceaf79e09e649f18aebba62295e5455"
+    "previous": "bb0c4d7e06b40723ccc11d5ed66e08b024bea685f1657360178b2dfd62f2b202",
+    "current": "bb0c4d7e06b40723ccc11d5ed66e08b024bea685f1657360178b2dfd62f2b202"
   },
   "fonts": [
-    "gaia-fontawesome/gaia-fontawesome_fffcfcee60c00bc2b367a03000466a58.ttf",
-    "gaia-fontawesome/gaia-fontawesome_fffcfcee60c00bc2b367a03000466a58.svg",
-    "gaia-fontawesome/gaia-fontawesome_fffcfcee60c00bc2b367a03000466a58.woff",
-    "gaia-fontawesome/gaia-fontawesome_fffcfcee60c00bc2b367a03000466a58.eot"
+    "gaia-fontawesome/gaia-fontawesome_bb0c4d7e06b40723ccc11d5ed66e08b0.ttf",
+    "gaia-fontawesome/gaia-fontawesome_bb0c4d7e06b40723ccc11d5ed66e08b0.svg",
+    "gaia-fontawesome/gaia-fontawesome_bb0c4d7e06b40723ccc11d5ed66e08b0.woff",
+    "gaia-fontawesome/gaia-fontawesome_bb0c4d7e06b40723ccc11d5ed66e08b0.eot"
   ],
   "glyphs": {
     "agenda-01": {
@@ -26,6 +26,10 @@
       "codepoint": 61706,
       "source": "svg/bedrooms-01.svg"
     },
+    "calendar-01": {
+      "codepoint": 61749,
+      "source": "svg/calendar-01.svg"
+    },
     "call-center-01": {
       "codepoint": 61701,
       "source": "svg/call-center-01.svg"
@@ -41,6 +45,10 @@
     "chat-01": {
       "codepoint": 61707,
       "source": "svg/chat-01.svg"
+    },
+    "chat-02": {
+      "codepoint": 61750,
+      "source": "svg/chat-02.svg"
     },
     "chat-question-02": {
       "codepoint": 61743,
@@ -61,6 +69,10 @@
     "claro-01": {
       "codepoint": 61723,
       "source": "svg/claro-01.svg"
+    },
+    "clock-01": {
+      "codepoint": 61751,
+      "source": "svg/clock-01.svg"
     },
     "cloud-01": {
       "codepoint": 61708,
@@ -98,6 +110,14 @@
       "codepoint": 61702,
       "source": "svg/doc-upload-01.svg"
     },
+    "drop-01": {
+      "codepoint": 61752,
+      "source": "svg/drop-01.svg"
+    },
+    "gaia-01": {
+      "codepoint": 61753,
+      "source": "svg/gaia-01.svg"
+    },
     "garage-01": {
       "codepoint": 61696,
       "source": "svg/garage-01.svg"
@@ -110,9 +130,17 @@
       "codepoint": 61737,
       "source": "svg/hand-01.svg"
     },
+    "houses-01": {
+      "codepoint": 61754,
+      "source": "svg/houses-01.svg"
+    },
     "launch-01": {
       "codepoint": 61717,
       "source": "svg/launch-01.svg"
+    },
+    "map-01": {
+      "codepoint": 61755,
+      "source": "svg/map-01.svg"
     },
     "menu-circles-01": {
       "codepoint": 61738,
@@ -182,6 +210,14 @@
       "codepoint": 61705,
       "source": "svg/ruler.svg"
     },
+    "sea-01": {
+      "codepoint": 61756,
+      "source": "svg/sea-01.svg"
+    },
+    "search-01": {
+      "codepoint": 61757,
+      "source": "svg/search-01.svg"
+    },
     "security-01": {
       "codepoint": 61712,
       "source": "svg/security-01.svg"
@@ -189,6 +225,10 @@
     "sign-sell-01": {
       "codepoint": 61698,
       "source": "svg/sign-sell-01.svg"
+    },
+    "sun-01": {
+      "codepoint": 61758,
+      "source": "svg/sun-01.svg"
     },
     "tim-01": {
       "codepoint": 61726,
