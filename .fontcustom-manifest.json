@@ -1,245 +1,253 @@
 {
   "checksum": {
-    "previous": "5dcc34b5ef285096ae592289210ab725875e2c583e7c94ecd5e23007d8ce5044",
-    "current": "5dcc34b5ef285096ae592289210ab725875e2c583e7c94ecd5e23007d8ce5044"
+    "previous": "5f37d2605e5d681d6c45427ac73af649491175ee40dbf541a4461b44476dd961",
+    "current": "5f37d2605e5d681d6c45427ac73af649491175ee40dbf541a4461b44476dd961"
   },
   "fonts": [
-    "gaia-fontawesome/gaia-fontawesome_5dcc34b5ef285096ae592289210ab725.ttf",
-    "gaia-fontawesome/gaia-fontawesome_5dcc34b5ef285096ae592289210ab725.svg",
-    "gaia-fontawesome/gaia-fontawesome_5dcc34b5ef285096ae592289210ab725.woff",
-    "gaia-fontawesome/gaia-fontawesome_5dcc34b5ef285096ae592289210ab725.eot"
+    "gaia-fontawesome/gaia-fontawesome_5f37d2605e5d681d6c45427ac73af649.ttf",
+    "gaia-fontawesome/gaia-fontawesome_5f37d2605e5d681d6c45427ac73af649.svg",
+    "gaia-fontawesome/gaia-fontawesome_5f37d2605e5d681d6c45427ac73af649.woff",
+    "gaia-fontawesome/gaia-fontawesome_5f37d2605e5d681d6c45427ac73af649.eot"
   ],
   "glyphs": {
     "agenda-01": {
-      "codepoint": 61733,
+      "codepoint": 61696,
       "source": "svg/agenda-01.svg"
     },
     "bathroom-01": {
-      "codepoint": 61699,
+      "codepoint": 61697,
       "source": "svg/bathroom-01.svg"
     },
     "bathroom-02": {
-      "codepoint": 61700,
+      "codepoint": 61698,
       "source": "svg/bathroom-02.svg"
     },
     "bedrooms-01": {
-      "codepoint": 61706,
+      "codepoint": 61699,
       "source": "svg/bedrooms-01.svg"
     },
     "calendar-01": {
-      "codepoint": 61749,
+      "codepoint": 61700,
       "source": "svg/calendar-01.svg"
     },
-    "call-center-01": {
+    "calendar-check-01": {
       "codepoint": 61701,
+      "source": "svg/calendar-check-01.svg"
+    },
+    "call-center-01": {
+      "codepoint": 61702,
       "source": "svg/call-center-01.svg"
     },
     "call-center-02": {
-      "codepoint": 61741,
+      "codepoint": 61703,
       "source": "svg/call-center-02.svg"
     },
     "call-center-03": {
-      "codepoint": 61742,
+      "codepoint": 61704,
       "source": "svg/call-center-03.svg"
     },
     "chat-01": {
-      "codepoint": 61707,
+      "codepoint": 61705,
       "source": "svg/chat-01.svg"
     },
     "chat-02": {
-      "codepoint": 61750,
+      "codepoint": 61706,
       "source": "svg/chat-02.svg"
     },
     "chat-question-02": {
-      "codepoint": 61743,
+      "codepoint": 61707,
       "source": "svg/chat-question-02.svg"
     },
     "check-01": {
-      "codepoint": 61713,
+      "codepoint": 61708,
       "source": "svg/check-01.svg"
     },
     "check-02": {
-      "codepoint": 61730,
+      "codepoint": 61709,
       "source": "svg/check-02.svg"
     },
     "check-03": {
-      "codepoint": 61734,
+      "codepoint": 61710,
       "source": "svg/check-03.svg"
     },
     "claro-01": {
-      "codepoint": 61723,
+      "codepoint": 61711,
       "source": "svg/claro-01.svg"
     },
+    "clean-getout-01": {
+      "codepoint": 61712,
+      "source": "svg/clean-getout-01.svg"
+    },
     "clock-01": {
-      "codepoint": 61751,
+      "codepoint": 61713,
       "source": "svg/clock-01.svg"
     },
     "cloud-01": {
-      "codepoint": 61708,
+      "codepoint": 61714,
       "source": "svg/cloud-01.svg"
     },
     "code-01": {
-      "codepoint": 61714,
+      "codepoint": 61715,
       "source": "svg/code-01.svg"
     },
     "commercial-01": {
-      "codepoint": 61745,
+      "codepoint": 61716,
       "source": "svg/commercial-01.svg"
     },
     "condominios-01": {
-      "codepoint": 61735,
+      "codepoint": 61717,
       "source": "svg/condominios-01.svg"
     },
     "connection-01": {
-      "codepoint": 61709,
+      "codepoint": 61718,
       "source": "svg/connection-01.svg"
     },
     "dashboard-01": {
-      "codepoint": 61710,
+      "codepoint": 61719,
       "source": "svg/dashboard-01.svg"
     },
     "dashboard-02": {
-      "codepoint": 61715,
+      "codepoint": 61720,
       "source": "svg/dashboard-02.svg"
     },
     "doc-01": {
-      "codepoint": 61716,
+      "codepoint": 61721,
       "source": "svg/doc-01.svg"
     },
     "doc-upload-01": {
-      "codepoint": 61702,
+      "codepoint": 61722,
       "source": "svg/doc-upload-01.svg"
     },
     "drop-01": {
-      "codepoint": 61752,
+      "codepoint": 61723,
       "source": "svg/drop-01.svg"
     },
     "gaia-01": {
-      "codepoint": 61753,
+      "codepoint": 61724,
       "source": "svg/gaia-01.svg"
     },
     "garage-01": {
-      "codepoint": 61696,
+      "codepoint": 61725,
       "source": "svg/garage-01.svg"
     },
     "garage-02": {
-      "codepoint": 61697,
+      "codepoint": 61726,
       "source": "svg/garage-02.svg"
     },
     "hand-01": {
-      "codepoint": 61737,
+      "codepoint": 61727,
       "source": "svg/hand-01.svg"
     },
     "houses-01": {
-      "codepoint": 61754,
+      "codepoint": 61728,
       "source": "svg/houses-01.svg"
     },
     "launch-01": {
-      "codepoint": 61717,
+      "codepoint": 61729,
       "source": "svg/launch-01.svg"
     },
     "map-01": {
-      "codepoint": 61755,
+      "codepoint": 61730,
       "source": "svg/map-01.svg"
     },
     "menu-circles-01": {
-      "codepoint": 61738,
+      "codepoint": 61731,
       "source": "svg/menu-circles-01.svg"
     },
     "menu-drag-drop-02": {
-      "codepoint": 61744,
+      "codepoint": 61732,
       "source": "svg/menu-drag-drop-02.svg"
     },
     "mobile-phone-02": {
-      "codepoint": 61703,
+      "codepoint": 61733,
       "source": "svg/mobile-phone-02.svg"
     },
     "money-01": {
-      "codepoint": 61704,
+      "codepoint": 61734,
       "source": "svg/money-01.svg"
     },
     "money-user-02": {
-      "codepoint": 61739,
+      "codepoint": 61735,
       "source": "svg/money-user-02.svg"
     },
     "nextel-01": {
-      "codepoint": 61724,
+      "codepoint": 61736,
       "source": "svg/nextel-01.svg"
     },
     "oi-01": {
-      "codepoint": 61725,
+      "codepoint": 61737,
       "source": "svg/oi-01.svg"
     },
     "partner-01": {
-      "codepoint": 61720,
+      "codepoint": 61738,
       "source": "svg/partner-01.svg"
     },
     "partner-02": {
-      "codepoint": 61721,
+      "codepoint": 61739,
       "source": "svg/partner-02.svg"
     },
     "partner-03": {
-      "codepoint": 61722,
+      "codepoint": 61740,
       "source": "svg/partner-03.svg"
     },
     "plus-01": {
-      "codepoint": 61732,
+      "codepoint": 61741,
       "source": "svg/plus-01.svg"
     },
     "popup-01": {
-      "codepoint": 61718,
+      "codepoint": 61742,
       "source": "svg/popup-01.svg"
     },
     "radar-01": {
-      "codepoint": 61711,
+      "codepoint": 61743,
       "source": "svg/radar-01.svg"
     },
     "radar-02": {
-      "codepoint": 61748,
+      "codepoint": 61744,
       "source": "svg/radar-02.svg"
     },
     "residential-01": {
-      "codepoint": 61746,
+      "codepoint": 61745,
       "source": "svg/residential-01.svg"
     },
     "responsive-01": {
-      "codepoint": 61719,
+      "codepoint": 61746,
       "source": "svg/responsive-01.svg"
     },
     "ruler": {
-      "codepoint": 61705,
+      "codepoint": 61747,
       "source": "svg/ruler.svg"
     },
     "sea-01": {
-      "codepoint": 61756,
+      "codepoint": 61748,
       "source": "svg/sea-01.svg"
     },
     "search-01": {
-      "codepoint": 61757,
+      "codepoint": 61749,
       "source": "svg/search-01.svg"
     },
     "security-01": {
-      "codepoint": 61712,
+      "codepoint": 61750,
       "source": "svg/security-01.svg"
     },
     "sign-sell-01": {
-      "codepoint": 61698,
+      "codepoint": 61751,
       "source": "svg/sign-sell-01.svg"
     },
     "sun-01": {
-      "codepoint": 61758,
+      "codepoint": 61752,
       "source": "svg/sun-01.svg"
     },
     "tim-01": {
-      "codepoint": 61726,
+      "codepoint": 61753,
       "source": "svg/tim-01.svg"
     },
     "tower-01": {
-      "codepoint": 61747,
+      "codepoint": 61754,
       "source": "svg/tower-01.svg"
     },
     "vivo-01": {
-      "codepoint": 61727,
+      "codepoint": 61755,
       "source": "svg/vivo-01.svg"
     }
   },
