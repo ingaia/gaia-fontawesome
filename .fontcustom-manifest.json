@@ -1,18 +1,22 @@
 {
   "checksum": {
-    "previous": "64e421bd415d1c5fa9dcd3856cb35a2e066307af2781c0d530684ab88a6074e5",
-    "current": "64e421bd415d1c5fa9dcd3856cb35a2e066307af2781c0d530684ab88a6074e5"
+    "previous": "928700f288b53962f40de1a70e3b83f4bee459563bb3411f13db949d8cdfb1ca",
+    "current": "928700f288b53962f40de1a70e3b83f4bee459563bb3411f13db949d8cdfb1ca"
   },
   "fonts": [
-    "gaia-fontawesome/gaia-fontawesome_64e421bd415d1c5fa9dcd3856cb35a2e.ttf",
-    "gaia-fontawesome/gaia-fontawesome_64e421bd415d1c5fa9dcd3856cb35a2e.svg",
-    "gaia-fontawesome/gaia-fontawesome_64e421bd415d1c5fa9dcd3856cb35a2e.woff",
-    "gaia-fontawesome/gaia-fontawesome_64e421bd415d1c5fa9dcd3856cb35a2e.eot"
+    "gaia-fontawesome/gaia-fontawesome_928700f288b53962f40de1a70e3b83f4.ttf",
+    "gaia-fontawesome/gaia-fontawesome_928700f288b53962f40de1a70e3b83f4.svg",
+    "gaia-fontawesome/gaia-fontawesome_928700f288b53962f40de1a70e3b83f4.woff",
+    "gaia-fontawesome/gaia-fontawesome_928700f288b53962f40de1a70e3b83f4.eot"
   ],
   "glyphs": {
     "agenda-01": {
       "codepoint": 61696,
       "source": "svg/agenda-01.svg"
+    },
+    "area-01": {
+      "codepoint": 61763,
+      "source": "svg/area-01.svg"
     },
     "arrow-left-01": {
       "codepoint": 61756,
@@ -110,6 +114,10 @@
       "codepoint": 61716,
       "source": "svg/commercial-01.svg"
     },
+    "commercial-02": {
+      "codepoint": 61764,
+      "source": "svg/commercial-02.svg"
+    },
     "condominios-01": {
       "codepoint": 61717,
       "source": "svg/condominios-01.svg"
@@ -157,6 +165,18 @@
     "houses-01": {
       "codepoint": 61728,
       "source": "svg/houses-01.svg"
+    },
+    "industrial-building-01": {
+      "codepoint": 61765,
+      "source": "svg/industrial-building-01.svg"
+    },
+    "industrial-building-02": {
+      "codepoint": 61766,
+      "source": "svg/industrial-building-02.svg"
+    },
+    "label-01": {
+      "codepoint": 61767,
+      "source": "svg/label-01.svg"
     },
     "launch-01": {
       "codepoint": 61729,
