@@ -5,9 +5,9 @@
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20141127 at Wed Sep 16 17:05:06 2015
- By Davi Callegari de Oliveira
-Copyright (c) 2015, Davi Callegari de Oliveira
+Created by FontForge 20141127 at Wed Sep 16 17:43:17 2015
+ By Jessé Pinheiro
+Copyright (c) 2015, Jess&#195;&#169; Pinheiro
 </metadata>
 <defs>
 <font id="gaia-fontawesome" horiz-adv-x="512" >
@@ -22,9 +22,11 @@ Copyright (c) 2015, Davi Callegari de Oliveira
     bbox="-0.496414 -243 515.269 498"
     underline-thickness="25.6"
     underline-position="-51.2"
-    unicode-range="U+F100-F14A"
+    unicode-range="U+0020-F14A"
   />
     <missing-glyph />
+    <glyph glyph-name="space" unicode=" " horiz-adv-x="200" 
+ />
     <glyph glyph-name="uniF131" unicode="&#xf131;" horiz-adv-x="511" 
 d="M440 216v0v-205h-229v168h-81v-168h-59v205l92 66l92 66l92 -66zM388 76v0v103h-118v-103h118zM416 299l95 -67l-21 -21l-235 161l-234 -161l-21 21l255 181l114 -81v68h47v-101z" />
     <glyph glyph-name="uniF143" unicode="&#xf143;" horiz-adv-x="432" 

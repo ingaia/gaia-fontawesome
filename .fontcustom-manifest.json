@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "364ae55aa9f85087eb71cf0d8f0f24061b331ba88442362b127ca1bf0fc1b1bb",
-    "current": "364ae55aa9f85087eb71cf0d8f0f24061b331ba88442362b127ca1bf0fc1b1bb"
+    "previous": "09cc73868e5efc1016a96b7217ed64fc373b1e06ca0d09e2ce88d05640c21743",
+    "current": "09cc73868e5efc1016a96b7217ed64fc373b1e06ca0d09e2ce88d05640c21743"
   },
   "fonts": [
-    "gaia-fontawesome/gaia-fontawesome_364ae55aa9f85087eb71cf0d8f0f2406.ttf",
-    "gaia-fontawesome/gaia-fontawesome_364ae55aa9f85087eb71cf0d8f0f2406.svg",
-    "gaia-fontawesome/gaia-fontawesome_364ae55aa9f85087eb71cf0d8f0f2406.woff",
-    "gaia-fontawesome/gaia-fontawesome_364ae55aa9f85087eb71cf0d8f0f2406.eot"
+    "gaia-fontawesome/gaia-fontawesome_09cc73868e5efc1016a96b7217ed64fc.ttf",
+    "gaia-fontawesome/gaia-fontawesome_09cc73868e5efc1016a96b7217ed64fc.svg",
+    "gaia-fontawesome/gaia-fontawesome_09cc73868e5efc1016a96b7217ed64fc.woff",
+    "gaia-fontawesome/gaia-fontawesome_09cc73868e5efc1016a96b7217ed64fc.eot"
   ],
   "glyphs": {
     "agenda-01": {
@@ -314,7 +314,7 @@
     "font_design_size": 16,
     "font_em": 512,
     "font_name": "gaia-fontawesome",
-    "force": false,
+    "force": true,
     "input": {
       "templates": "svg/",
       "vectors": "svg/"
