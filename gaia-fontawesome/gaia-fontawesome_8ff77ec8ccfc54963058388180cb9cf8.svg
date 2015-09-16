@@ -5,7 +5,7 @@
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20141127 at Wed Sep 16 09:12:17 2015
+Created by FontForge 20141127 at Wed Sep 16 09:59:47 2015
  By Davi Callegari de Oliveira
 Copyright (c) 2015, Davi Callegari de Oliveira
 </metadata>
@@ -19,7 +19,7 @@ Copyright (c) 2015, Davi Callegari de Oliveira
     panose-1="2 0 5 3 0 0 0 0 0 0"
     ascent="448"
     descent="-64"
-    bbox="-0.444444 -243 515.269 498"
+    bbox="-0.496414 -243 515.269 498"
     underline-thickness="25.6"
     underline-position="-51.2"
     unicode-range="U+F100-F14A"
@@ -147,9 +147,9 @@ s5 8 5 12v0v1l30 166c0 9 -8 16 -17 16zM380 174v0c14 0 25 -11 25 -25l-29 -166c0 -
     <glyph glyph-name="uniF11B" unicode="&#xf11b;" horiz-adv-x="332" 
 d="M0 93c3 -107 94 -160 180 -157c81 3 156 56 151 161c-8 147 -169 170 -119 350v0c-63 -62 -215 -260 -212 -354zM0 93c-3 93 149 291 212 354c-50 -180 112 -204 119 -350c5 -105 -70 -158 -151 -161c-85 -3 -177 51 -180 157zM0 93c-3 94 149 292 212 354
 c-50 -180 111 -204 119 -350c11 -217 -324 -211 -331 -4z" />
-    <glyph glyph-name="uniF14A" unicode="&#xf14a;" horiz-adv-x="309" 
-d="M51 369v-400c0 -5 -3 -9 -8 -9h-17c-5 0 -9 4 -9 9v400c-10 6 -17 18 -17 30c0 19 15 34 34 34s35 -15 35 -34c0 -12 -8 -24 -18 -30zM309 -10c0 -6 -4 -9 -9 -11c-18 -10 -39 -19 -60 -19c-30 0 -44 23 -80 23c-26 0 -53 -12 -76 -24c-2 -1 -3 -1 -5 -1
-c-6 0 -10 4 -10 10v121c0 4 2 7 5 9c4 3 8 5 12 7c21 10 46 20 69 20c26 0 46 -8 69 -19c5 -2 9 -3 14 -3c26 0 53 22 60 22c6 0 11 -4 11 -10v-125v0z" />
+    <glyph glyph-name="uniF14A" unicode="&#xf14a;" horiz-adv-x="225" 
+d="M40 351v-342c0 -3 -4 -6 -7 -6h-12c-3 0 -6 3 -6 6v17v0v271v80c-6 4 -12 8 -14 14c-5 16 3 31 17 36s30 -3 35 -17c5 -13 -1 -26 -13 -33v-26zM224 110c1 -18 1 -43 1 -59c-1 -30 -11 -89 -11 -89s-18 24 -41 48s-66 52 -82 60c-5 2 -9 5 -14 8c0 0 -6 6 -11 9
+c-1 1 -3 4 -3 4c-6 7 -9 14 -9 23c0 15 -1 141 1 204c1 2 -1 30 -1 30c34 -18 96 -87 124 -149c12 -26 21 -41 28 -50c12 -15 14 -11 17 -15c2 -2 1 -5 1 -16v-8z" />
     <glyph glyph-name="uniF13E" unicode="&#xf13e;" horiz-adv-x="340" 
 d="M180 196l158 -158c3 -3 3 -7 0 -10c-1 -1 -3 -2 -5 -2s-5 1 -6 2l-157 158l-158 -158c-1 -1 -3 -2 -5 -2s-4 1 -5 2c-3 3 -3 7 0 10l158 158l-158 158c-3 3 -3 7 0 10s7 3 10 0l158 -158l157 158c3 3 8 3 11 0s3 -7 0 -10z" />
     <glyph glyph-name="uniF146" unicode="&#xf146;" 
