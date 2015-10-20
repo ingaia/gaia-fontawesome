@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "552b4d2ab9d5665ab9a165976f49b4e2fc53397f52d4d744a0acd778eefefe9e",
-    "current": "552b4d2ab9d5665ab9a165976f49b4e2fc53397f52d4d744a0acd778eefefe9e"
+    "previous": "adcdc2e3aae6b1111b8204e0fb9912e59c62b96b7f1c46095ddcfee12c6b6911",
+    "current": "adcdc2e3aae6b1111b8204e0fb9912e59c62b96b7f1c46095ddcfee12c6b6911"
   },
   "fonts": [
-    "gaia-fontawesome/gaia-fontawesome_552b4d2ab9d5665ab9a165976f49b4e2.ttf",
-    "gaia-fontawesome/gaia-fontawesome_552b4d2ab9d5665ab9a165976f49b4e2.svg",
-    "gaia-fontawesome/gaia-fontawesome_552b4d2ab9d5665ab9a165976f49b4e2.woff",
-    "gaia-fontawesome/gaia-fontawesome_552b4d2ab9d5665ab9a165976f49b4e2.eot"
+    "gaia-fontawesome/gaia-fontawesome_adcdc2e3aae6b1111b8204e0fb9912e5.ttf",
+    "gaia-fontawesome/gaia-fontawesome_adcdc2e3aae6b1111b8204e0fb9912e5.svg",
+    "gaia-fontawesome/gaia-fontawesome_adcdc2e3aae6b1111b8204e0fb9912e5.woff",
+    "gaia-fontawesome/gaia-fontawesome_adcdc2e3aae6b1111b8204e0fb9912e5.eot"
   ],
   "glyphs": {
     "agenda-01": {
@@ -321,6 +321,10 @@
     "vivo-01": {
       "codepoint": 61773,
       "source": "svg/vivo-01.svg"
+    },
+    "whatsapp-01": {
+      "codepoint": 61774,
+      "source": "svg/whatsapp-01.svg"
     }
   },
   "options": {
