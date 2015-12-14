@@ -1,13 +1,13 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <!--
-2015-11-24: Created with FontForge (http://fontforge.org)
+2015-12-14: Created with FontForge (http://fontforge.org)
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20141127 at Tue Nov 24 10:44:13 2015
- By Davi Callegari de Oliveira
-Copyright (c) 2015, Davi Callegari de Oliveira
+Created by FontForge 20141127 at Mon Dec 14 15:41:18 2015
+ By Jessé Pinheiro
+Copyright (c) 2015, Jess&#195;&#169; Pinheiro
 </metadata>
 <defs>
 <font id="gaia-fontawesome" horiz-adv-x="512" >
@@ -22,9 +22,11 @@ Copyright (c) 2015, Davi Callegari de Oliveira
     bbox="-0.496414 -243 515.269 498"
     underline-thickness="25.6"
     underline-position="-51.2"
-    unicode-range="U+F100-F14F"
+    unicode-range="U+0020-F150"
   />
     <missing-glyph />
+    <glyph glyph-name="space" unicode=" " horiz-adv-x="200" 
+ />
     <glyph glyph-name="uniF141" unicode="&#xf141;" horiz-adv-x="511" 
 d="M440 216v0v-205h-229v168h-81v-168h-59v205l92 66l92 66l92 -66zM388 76v0v103h-118v-103h118zM416 299l95 -67l-21 -21l-235 161l-234 -161l-21 21l255 181l114 -81v68h47v-101z" />
     <glyph glyph-name="uniF14E" unicode="&#xf14e;" horiz-adv-x="440" 
@@ -179,6 +181,10 @@ c0 -2 0 -4 -1 -6s-2 -4 -3 -5l-3 -3s-3 -2 -5 -3c-3 -2 -6 -3 -7 -4s-2 -4 -2 -6v-1v
     <glyph glyph-name="uniF106" unicode="&#xf106;" 
 d="M494 248c10 0 18 -9 18 -19v-180h-47l-12 56h-394l-12 -56h-47v269c0 10 8 17 18 17h18c10 0 15 -7 15 -17v-98s-1 -29 23 -49c22 -19 54 -15 54 -15h333v73c0 10 6 19 16 19h17zM429 211c2 -4 2 -12 2 -15c0 -13 -11 -19 -24 -19h-194c-13 0 -24 7 -24 20v0v1v0
 c0 8 9 18 21 23c20 8 53 18 99 18c60 0 66 -3 91 -9c13 -3 25 -10 29 -19zM157 218c10 -8 17 -21 12 -30c-7 -12 -22 -10 -34 -10c-14 0 -33 7 -45 21c-10 11 -17 34 -10 44c8 11 25 11 40 2c17 -10 26 -18 37 -27z" />
+    <glyph glyph-name="uniF150" unicode="&#xf150;" horiz-adv-x="471" 
+d="M427 268c24 0 44 -15 44 -39v-35c0 -24 -20 -46 -44 -46h-232c-24 0 -44 22 -44 46v35c0 24 20 39 44 39h232zM431 194v35c0 3 -1 5 -4 5h-232c-3 0 -10 -2 -10 -5v-35c0 -3 7 -12 10 -12h232c3 0 4 9 4 12zM427 405c24 0 44 -14 44 -38v-36c0 -24 -20 -46 -44 -46h-232
+c-24 0 -44 22 -44 46v36c0 24 20 38 44 38h232zM431 331v36c0 3 -1 4 -4 4h-232c-3 0 -10 -1 -10 -4v-36c0 -3 7 -12 10 -12h232c3 0 4 9 4 12zM427 127c24 0 44 -19 44 -43v-35c0 -24 -20 -48 -44 -48h-232c-24 0 -44 24 -44 48v35c0 24 20 43 44 43h232zM431 49v35
+c0 3 -1 3 -4 3h-232c-3 0 -10 0 -10 -3v-35c0 -3 7 -8 10 -8h232c3 0 4 5 4 8zM96 248l35 -35c10 -10 11 -15 1 -25l-37 -36l-2 2v29c-31 -2 -55 -27 -55 -58c0 -32 26 -59 58 -59c10 0 19 -8 19 -18s-9 -19 -19 -19c-53 0 -96 43 -96 96c0 52 41 94 92 96v25z" />
     <glyph glyph-name="uniF10A" unicode="&#xf10a;" horiz-adv-x="508" 
 d="M446 240v0c-44 6 -128 36 -106 99c-141 -157 -251 -66 -273 -140c-10 146 90 212 189 212s182 -76 190 -171zM308 96c10 -19 -11 -48 -51 -48c-37 0 -63 30 -53 47c12 -7 31 -12 51 -12c21 0 41 5 53 13v0zM143 190c0 21 16 39 37 39s38 -18 38 -39s-17 -38 -38 -38
 s-37 17 -37 38zM288 190c0 21 17 39 38 39s37 -18 37 -39s-16 -38 -37 -38s-38 17 -38 38zM254 220l2 -1l-2 1v0zM508 213v0v0c0 -31 -17 -79 -64 -72c9 23 15 46 16 71c4 114 -85 210 -199 214s-209 -85 -213 -199c-4 -107 75 -197 179 -211c3 4 8 6 13 6

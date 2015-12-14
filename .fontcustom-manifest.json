@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "cbeec85d5084fadfe846f6031f92cfd3e44cf6a712b3afe2ac5d4c0bab2821f6",
-    "current": "cbeec85d5084fadfe846f6031f92cfd3e44cf6a712b3afe2ac5d4c0bab2821f6"
+    "previous": "fafd1c489a45bca4e035a556afd6c2b9c35a47ed3c5177010bda6608eb0cde1e",
+    "current": "fafd1c489a45bca4e035a556afd6c2b9c35a47ed3c5177010bda6608eb0cde1e"
   },
   "fonts": [
-    "gaia-fontawesome/gaia-fontawesome_cbeec85d5084fadfe846f6031f92cfd3.ttf",
-    "gaia-fontawesome/gaia-fontawesome_cbeec85d5084fadfe846f6031f92cfd3.svg",
-    "gaia-fontawesome/gaia-fontawesome_cbeec85d5084fadfe846f6031f92cfd3.woff",
-    "gaia-fontawesome/gaia-fontawesome_cbeec85d5084fadfe846f6031f92cfd3.eot"
+    "gaia-fontawesome/gaia-fontawesome_fafd1c489a45bca4e035a556afd6c2b9.ttf",
+    "gaia-fontawesome/gaia-fontawesome_fafd1c489a45bca4e035a556afd6c2b9.svg",
+    "gaia-fontawesome/gaia-fontawesome_fafd1c489a45bca4e035a556afd6c2b9.woff",
+    "gaia-fontawesome/gaia-fontawesome_fafd1c489a45bca4e035a556afd6c2b9.eot"
   ],
   "glyphs": {
     "add-imovel": {
@@ -273,6 +273,10 @@
     "radar-02": {
       "codepoint": 61760,
       "source": "svg/radar-02.svg"
+    },
+    "reorder-01": {
+      "codepoint": 61776,
+      "source": "svg/reorder-01.svg"
     },
     "residential-01": {
       "codepoint": 61761,
