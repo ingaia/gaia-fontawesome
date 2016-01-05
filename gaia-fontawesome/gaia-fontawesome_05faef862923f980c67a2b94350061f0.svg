@@ -1,13 +1,13 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <!--
-2015-12-30: Created with FontForge (http://fontforge.org)
+2016-1-5: Created with FontForge (http://fontforge.org)
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20141127 at Wed Dec 30 10:00:25 2015
+Created by FontForge 20141127 at Tue Jan  5 13:47:24 2016
  By Davi Callegari de Oliveira
-Copyright (c) 2015, Davi Callegari de Oliveira
+Copyright (c) 2016, Davi Callegari de Oliveira
 </metadata>
 <defs>
 <font id="gaia-fontawesome" horiz-adv-x="512" >
@@ -19,7 +19,7 @@ Copyright (c) 2015, Davi Callegari de Oliveira
     panose-1="2 0 5 3 0 0 0 0 0 0"
     ascent="448"
     descent="-64"
-    bbox="-0.496414 -243 515.269 498"
+    bbox="-0.496414 -411 515.269 498"
     underline-thickness="25.6"
     underline-position="-51.2"
     unicode-range="U+F100-F150"
@@ -250,10 +250,9 @@ l-3 3l-4 -3c-23 -19 -43 -22 -65 0l-3 4l-4 -4c-21 -20 -42 -19 -64 0zM24 248l-6 -8
 c27 -21 55 -22 82 -2c29 -23 55 -18 80 0c30 -24 54 -10 79 6l-5 8c-26 -17 -46 -27 -70 -4l-3 3l-3 -3c-26 -19 -50 -22 -75 0l-3 3l-3 -3c-24 -21 -49 -19 -73 0zM8 294l-8 -6c17 -24 57 -30 86 -9c30 -24 58 -19 85 0c28 -23 58 -15 84 2l-5 8c-26 -17 -52 -22 -75 0
 l-3 3l-4 -3c-27 -21 -52 -24 -78 0l-3 3l-4 -2c-25 -21 -62 -15 -75 4zM255 289l-6 -8c28 -22 59 -23 87 -2c30 -24 58 -19 85 0c33 -26 72 -9 89 10l-8 7c-16 -17 -53 -31 -78 -7l-3 3l-3 -3c-27 -21 -53 -24 -79 0l-3 3l-3 -3c-26 -22 -52 -20 -78 0zM170 107l-6 -8
 c21 -18 43 -15 63 0c21 -18 41 -11 60 2l-6 8c-18 -13 -34 -16 -50 0l-4 3l-3 -3c-19 -16 -36 -18 -54 -2zM287 109l-6 -8c21 -18 45 -19 66 1l-7 7c-18 -17 -35 -16 -53 0z" />
-    <glyph glyph-name="uniF14F" unicode="&#xf14f;" horiz-adv-x="496" 
-d="M237 311c0 -5 -5 -10 -10 -10h-79v-79c0 -5 -5 -10 -10 -10h-33c-5 0 -10 5 -10 10v79h-79c-5 0 -10 5 -10 10v33c0 5 5 10 10 10h79v79c0 5 5 10 10 10h33c5 0 10 -5 10 -10v-79h79c5 0 10 -5 10 -10v-33zM138 199h1l-104 -87c-2 -2 -4 -2 -7 -2c-2 0 -5 2 -7 4l-19 22
-c-3 4 -3 11 1 14l79 66c3 -10 12 -17 23 -17h33zM248 263l176 -146c0 -1 1 -1 1 -2v-147c0 -11 -9 -20 -20 -20h-118v118h-79v-118h-118c-11 0 -19 9 -19 20v147v2zM492 150c4 -3 4 -10 1 -14l-19 -22c-2 -2 -4 -4 -6 -4h-1c-2 0 -5 0 -7 2l-212 178l-87 -73c0 2 1 4 1 6v59
-l7 6h58c13 0 24 11 24 24v30c7 -1 14 -3 20 -8l75 -62v60c0 6 4 9 10 9h59c6 0 10 -3 10 -9v-126z" />
+    <glyph glyph-name="uniF14F" unicode="&#xf14f;" horiz-adv-x="486" 
+d="M457 -188l-216 212l-212 -212c-7 -7 -17 -7 -24 0s-7 17 0 24l224 225c7 7 17 7 24 0v0l86 -85l50 -49l92 -91c7 -7 7 -17 0 -24s-17 -7 -24 0zM383 -218c-30 0 -56 -12 -75 -32v26c0 9 -9 18 -18 18h-95c-9 0 -17 -9 -17 -18v-123c0 -4 -1 -7 -4 -10s-6 -4 -10 -4h-84
+c-9 0 -17 8 -17 17v0v155c0 5 2 10 6 13l158 159c7 7 17 6 24 0l167 -160c4 -3 5 -8 5 -12v0v-37c-12 5 -26 8 -40 8zM383 -237c48 0 87 -39 87 -87s-39 -87 -87 -87s-87 39 -87 87s39 87 87 87zM426 -336v23h-31v31h-23v-31h-32v-23h32v-30h23v30h31z" />
     <glyph glyph-name="uniF134" unicode="&#xf134;" horiz-adv-x="306" 
 d="M230 432c42 0 76 -34 76 -76v-324c0 -42 -34 -76 -76 -76h-154c-42 0 -76 34 -76 76v324c0 42 34 76 76 76h154zM153 -7c13 0 23 10 23 23s-10 23 -23 23s-23 -10 -23 -23s10 -23 23 -23zM277 108v0v200c0 22 -18 40 -40 40h-168c-22 0 -40 -18 -40 -40v-200
 c0 -22 18 -39 40 -39h168c22 0 40 17 40 39z" />
