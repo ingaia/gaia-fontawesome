@@ -49,10 +49,10 @@ base64: true
 #  vectors: my/vectors
 #  templates: my/templates
 
-#output:
-#  fonts: app/assets/fonts
-#  css: app/assets/stylesheets
-#  preview: app/views/styleguide
+output:
+  fonts: dist/fonts
+  css: dist/css
+  preview: dist/preview
 #  my-custom-template.yml: path/to/template/output
 
 

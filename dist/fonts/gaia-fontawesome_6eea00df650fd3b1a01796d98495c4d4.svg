@@ -1,13 +1,13 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <!--
-2016-1-5: Created with FontForge (http://fontforge.org)
+2016-2-18: Created with FontForge (http://fontforge.org)
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20141127 at Tue Jan  5 13:47:24 2016
- By Davi Callegari de Oliveira
-Copyright (c) 2016, Davi Callegari de Oliveira
+Created by FontForge 20150913 at Thu Feb 18 15:59:02 2016
+ By Jessé Pinheiro
+Copyright (c) 2016, Jess&#195;&#169; Pinheiro
 </metadata>
 <defs>
 <font id="gaia-fontawesome" horiz-adv-x="512" >
@@ -22,9 +22,11 @@ Copyright (c) 2016, Davi Callegari de Oliveira
     bbox="-0.496414 -411 515.269 498"
     underline-thickness="25.6"
     underline-position="-51.2"
-    unicode-range="U+F100-F150"
+    unicode-range="U+0020-F150"
   />
     <missing-glyph />
+    <glyph glyph-name="space" unicode=" " horiz-adv-x="200" 
+ />
     <glyph glyph-name="uniF141" unicode="&#xf141;" horiz-adv-x="511" 
 d="M440 216v0v-205h-229v168h-81v-168h-59v205l92 66l92 66l92 -66zM388 76v0v103h-118v-103h118zM416 299l95 -67l-21 -21l-235 161l-234 -161l-21 21l255 181l114 -81v68h47v-101z" />
     <glyph glyph-name="uniF14E" unicode="&#xf14e;" horiz-adv-x="440" 

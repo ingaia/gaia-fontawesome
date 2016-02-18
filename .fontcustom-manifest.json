@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "05faef862923f980c67a2b94350061f032ebe46635c0a23050cb54676806890b",
-    "current": "05faef862923f980c67a2b94350061f032ebe46635c0a23050cb54676806890b"
+    "previous": "6eea00df650fd3b1a01796d98495c4d4801529014cffe451fb046f063b41339d",
+    "current": "6eea00df650fd3b1a01796d98495c4d4801529014cffe451fb046f063b41339d"
   },
   "fonts": [
-    "gaia-fontawesome/gaia-fontawesome_05faef862923f980c67a2b94350061f0.ttf",
-    "gaia-fontawesome/gaia-fontawesome_05faef862923f980c67a2b94350061f0.svg",
-    "gaia-fontawesome/gaia-fontawesome_05faef862923f980c67a2b94350061f0.woff",
-    "gaia-fontawesome/gaia-fontawesome_05faef862923f980c67a2b94350061f0.eot"
+    "dist/fonts/gaia-fontawesome_6eea00df650fd3b1a01796d98495c4d4.ttf",
+    "dist/fonts/gaia-fontawesome_6eea00df650fd3b1a01796d98495c4d4.svg",
+    "dist/fonts/gaia-fontawesome_6eea00df650fd3b1a01796d98495c4d4.woff",
+    "dist/fonts/gaia-fontawesome_6eea00df650fd3b1a01796d98495c4d4.eot"
   ],
   "glyphs": {
     "add-imovel": {
@@ -348,14 +348,14 @@
     "font_name": "gaia-fontawesome",
     "force": false,
     "input": {
-      "templates": "svg/",
-      "vectors": "svg/"
+      "templates": "svg",
+      "vectors": "svg"
     },
     "no_hash": false,
     "output": {
-      "css": "gaia-fontawesome",
-      "fonts": "gaia-fontawesome",
-      "preview": "gaia-fontawesome"
+      "css": "dist/css",
+      "fonts": "dist/fonts",
+      "preview": "dist/preview"
     },
     "preprocessor_path": null,
     "quiet": false,
@@ -366,8 +366,8 @@
     ]
   },
   "templates": [
-    "gaia-fontawesome/_gaia-fontawesome-rails.scss",
-    "gaia-fontawesome/gaia-fontawesome.css",
-    "gaia-fontawesome/gaia-fontawesome-preview.html"
+    "dist/css/_gaia-fontawesome-rails.scss",
+    "dist/css/gaia-fontawesome.css",
+    "dist/preview/gaia-fontawesome-preview.html"
   ]
 }
