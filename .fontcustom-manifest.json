@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "6eea00df650fd3b1a01796d98495c4d4801529014cffe451fb046f063b41339d",
-    "current": "6eea00df650fd3b1a01796d98495c4d4801529014cffe451fb046f063b41339d"
+    "previous": "8b84e897d48c5a6dd0d6ef50ca4ab4be0613f87af65e26c9f68feb4f0a5ce631",
+    "current": "8b84e897d48c5a6dd0d6ef50ca4ab4be0613f87af65e26c9f68feb4f0a5ce631"
   },
   "fonts": [
-    "dist/fonts/gaia-fontawesome_6eea00df650fd3b1a01796d98495c4d4.ttf",
-    "dist/fonts/gaia-fontawesome_6eea00df650fd3b1a01796d98495c4d4.svg",
-    "dist/fonts/gaia-fontawesome_6eea00df650fd3b1a01796d98495c4d4.woff",
-    "dist/fonts/gaia-fontawesome_6eea00df650fd3b1a01796d98495c4d4.eot"
+    "dist/fonts/gaia-fontawesome_8b84e897d48c5a6dd0d6ef50ca4ab4be.ttf",
+    "dist/fonts/gaia-fontawesome_8b84e897d48c5a6dd0d6ef50ca4ab4be.svg",
+    "dist/fonts/gaia-fontawesome_8b84e897d48c5a6dd0d6ef50ca4ab4be.woff",
+    "dist/fonts/gaia-fontawesome_8b84e897d48c5a6dd0d6ef50ca4ab4be.eot"
   ],
   "glyphs": {
     "add-imovel": {
@@ -186,9 +186,17 @@
       "codepoint": 61738,
       "source": "svg/hand-01.svg"
     },
+    "hide-01": {
+      "codepoint": 61777,
+      "source": "svg/hide-01.svg"
+    },
     "houses-01": {
       "codepoint": 61739,
       "source": "svg/houses-01.svg"
+    },
+    "houses-bookmark-01": {
+      "codepoint": 61778,
+      "source": "svg/houses-bookmark-01.svg"
     },
     "industrial-building-01": {
       "codepoint": 61740,
@@ -298,6 +306,10 @@
       "codepoint": 61765,
       "source": "svg/search-01.svg"
     },
+    "search-delete-01": {
+      "codepoint": 61779,
+      "source": "svg/search-delete-01.svg"
+    },
     "security-01": {
       "codepoint": 61766,
       "source": "svg/security-01.svg"
@@ -348,8 +360,8 @@
     "font_name": "gaia-fontawesome",
     "force": false,
     "input": {
-      "templates": "svg",
-      "vectors": "svg"
+      "templates": "svg/",
+      "vectors": "svg/"
     },
     "no_hash": false,
     "output": {
