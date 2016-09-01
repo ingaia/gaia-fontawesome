@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "8b84e897d48c5a6dd0d6ef50ca4ab4be0613f87af65e26c9f68feb4f0a5ce631",
-    "current": "8b84e897d48c5a6dd0d6ef50ca4ab4be0613f87af65e26c9f68feb4f0a5ce631"
+    "previous": "8c05be31c29dda7dfc6b1106d2a01ad7a53cc22c211ce232e905a129b4534247",
+    "current": "8c05be31c29dda7dfc6b1106d2a01ad7a53cc22c211ce232e905a129b4534247"
   },
   "fonts": [
-    "dist/fonts/gaia-fontawesome_8b84e897d48c5a6dd0d6ef50ca4ab4be.ttf",
-    "dist/fonts/gaia-fontawesome_8b84e897d48c5a6dd0d6ef50ca4ab4be.svg",
-    "dist/fonts/gaia-fontawesome_8b84e897d48c5a6dd0d6ef50ca4ab4be.woff",
-    "dist/fonts/gaia-fontawesome_8b84e897d48c5a6dd0d6ef50ca4ab4be.eot"
+    "dist/fonts/gaia-fontawesome_8c05be31c29dda7dfc6b1106d2a01ad7.ttf",
+    "dist/fonts/gaia-fontawesome_8c05be31c29dda7dfc6b1106d2a01ad7.svg",
+    "dist/fonts/gaia-fontawesome_8c05be31c29dda7dfc6b1106d2a01ad7.woff",
+    "dist/fonts/gaia-fontawesome_8c05be31c29dda7dfc6b1106d2a01ad7.eot"
   ],
   "glyphs": {
     "add-imovel": {
@@ -253,6 +253,10 @@
     "oi-01": {
       "codepoint": 61753,
       "source": "svg/oi-01.svg"
+    },
+    "orulo-logo": {
+      "codepoint": 61780,
+      "source": "svg/orulo-logo.svg"
     },
     "partner-01": {
       "codepoint": 61754,
