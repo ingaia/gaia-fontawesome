@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "8c05be31c29dda7dfc6b1106d2a01ad7a53cc22c211ce232e905a129b4534247",
-    "current": "8c05be31c29dda7dfc6b1106d2a01ad7a53cc22c211ce232e905a129b4534247"
+    "previous": "0c13c7c5a03f1ad01fecf3038a95c30b3e2b5c53bed3ee070ac7a4454d8cee06",
+    "current": "0c13c7c5a03f1ad01fecf3038a95c30b3e2b5c53bed3ee070ac7a4454d8cee06"
   },
   "fonts": [
-    "dist/fonts/gaia-fontawesome_8c05be31c29dda7dfc6b1106d2a01ad7.ttf",
-    "dist/fonts/gaia-fontawesome_8c05be31c29dda7dfc6b1106d2a01ad7.svg",
-    "dist/fonts/gaia-fontawesome_8c05be31c29dda7dfc6b1106d2a01ad7.woff",
-    "dist/fonts/gaia-fontawesome_8c05be31c29dda7dfc6b1106d2a01ad7.eot"
+    "dist/fonts/gaia-fontawesome_0c13c7c5a03f1ad01fecf3038a95c30b.ttf",
+    "dist/fonts/gaia-fontawesome_0c13c7c5a03f1ad01fecf3038a95c30b.svg",
+    "dist/fonts/gaia-fontawesome_0c13c7c5a03f1ad01fecf3038a95c30b.woff",
+    "dist/fonts/gaia-fontawesome_0c13c7c5a03f1ad01fecf3038a95c30b.eot"
   ],
   "glyphs": {
     "add-imovel": {
@@ -317,6 +317,10 @@
     "security-01": {
       "codepoint": 61766,
       "source": "svg/security-01.svg"
+    },
+    "share-01": {
+      "codepoint": 61781,
+      "source": "svg/share-01.svg"
     },
     "shop-01": {
       "codepoint": 61767,
