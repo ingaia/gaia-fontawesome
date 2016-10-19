@@ -1,0 +1,9 @@
+{
+  "name": "gaia-fontawesome",
+  "version": "1.0.0",
+  "description": "** A Font Awesome based for Gaia **",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ingaia/gaia-fontawesome.git"
+  }
+}
