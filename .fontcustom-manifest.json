@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "5fb31e1153061dcf10d1ee9025126c865fc46408d68a4361669b3e99993d5356",
-    "current": "5fb31e1153061dcf10d1ee9025126c865fc46408d68a4361669b3e99993d5356"
+    "previous": "347aaa81cf4a46f215a70436290cb3137d78045b1dfe9a8d0a2369e5c0641dba",
+    "current": "347aaa81cf4a46f215a70436290cb3137d78045b1dfe9a8d0a2369e5c0641dba"
   },
   "fonts": [
-    "dist/fonts/gaia-fontawesome_5fb31e1153061dcf10d1ee9025126c86.ttf",
-    "dist/fonts/gaia-fontawesome_5fb31e1153061dcf10d1ee9025126c86.svg",
-    "dist/fonts/gaia-fontawesome_5fb31e1153061dcf10d1ee9025126c86.woff",
-    "dist/fonts/gaia-fontawesome_5fb31e1153061dcf10d1ee9025126c86.eot"
+    "dist/fonts/gaia-fontawesome_347aaa81cf4a46f215a70436290cb313.ttf",
+    "dist/fonts/gaia-fontawesome_347aaa81cf4a46f215a70436290cb313.svg",
+    "dist/fonts/gaia-fontawesome_347aaa81cf4a46f215a70436290cb313.woff",
+    "dist/fonts/gaia-fontawesome_347aaa81cf4a46f215a70436290cb313.eot"
   ],
   "glyphs": {
     "add-imovel": {
@@ -138,6 +138,10 @@
       "codepoint": 61725,
       "source": "svg/connection-01.svg"
     },
+    "consultant": {
+      "codepoint": 61785,
+      "source": "svg/consultant.svg"
+    },
     "couch-o": {
       "codepoint": 61783,
       "source": "svg/couch-o.svg"
@@ -169,6 +173,10 @@
     "envelope-arroba-01": {
       "codepoint": 61732,
       "source": "svg/envelope-arroba-01.svg"
+    },
+    "envelope-o": {
+      "codepoint": 61786,
+      "source": "svg/envelope-o.svg"
     },
     "flag-down-01": {
       "codepoint": 61733,
@@ -230,6 +238,10 @@
       "codepoint": 61745,
       "source": "svg/map-01.svg"
     },
+    "map-marker-home-o": {
+      "codepoint": 61787,
+      "source": "svg/map-marker-home-o.svg"
+    },
     "menu-circles-01": {
       "codepoint": 61746,
       "source": "svg/menu-circles-01.svg"
@@ -237,6 +249,10 @@
     "menu-drag-drop-02": {
       "codepoint": 61747,
       "source": "svg/menu-drag-drop-02.svg"
+    },
+    "mobile-phone-01": {
+      "codepoint": 61790,
+      "source": "svg/mobile-phone-01.svg"
     },
     "mobile-phone-02": {
       "codepoint": 61748,
@@ -353,6 +369,10 @@
     "tim-01": {
       "codepoint": 61771,
       "source": "svg/tim-01.svg"
+    },
+    "tour": {
+      "codepoint": 61789,
+      "source": "svg/tour.svg"
     },
     "tower-01": {
       "codepoint": 61772,
