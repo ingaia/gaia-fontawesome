@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "347aaa81cf4a46f215a70436290cb3137d78045b1dfe9a8d0a2369e5c0641dba",
-    "current": "347aaa81cf4a46f215a70436290cb3137d78045b1dfe9a8d0a2369e5c0641dba"
+    "previous": "8e8bbd43648cfdc651c5936d3f7a74ff1ded41185ee08cbce38f539a103d8056",
+    "current": "8e8bbd43648cfdc651c5936d3f7a74ff1ded41185ee08cbce38f539a103d8056"
   },
   "fonts": [
-    "dist/fonts/gaia-fontawesome_347aaa81cf4a46f215a70436290cb313.ttf",
-    "dist/fonts/gaia-fontawesome_347aaa81cf4a46f215a70436290cb313.svg",
-    "dist/fonts/gaia-fontawesome_347aaa81cf4a46f215a70436290cb313.woff",
-    "dist/fonts/gaia-fontawesome_347aaa81cf4a46f215a70436290cb313.eot"
+    "dist/fonts/gaia-fontawesome_8e8bbd43648cfdc651c5936d3f7a74ff.ttf",
+    "dist/fonts/gaia-fontawesome_8e8bbd43648cfdc651c5936d3f7a74ff.svg",
+    "dist/fonts/gaia-fontawesome_8e8bbd43648cfdc651c5936d3f7a74ff.woff",
+    "dist/fonts/gaia-fontawesome_8e8bbd43648cfdc651c5936d3f7a74ff.eot"
   ],
   "glyphs": {
     "add-imovel": {
@@ -169,6 +169,10 @@
     "drop-01": {
       "codepoint": 61731,
       "source": "svg/drop-01.svg"
+    },
+    "engineer": {
+      "codepoint": 61791,
+      "source": "svg/engineer.svg"
     },
     "envelope-arroba-01": {
       "codepoint": 61732,
