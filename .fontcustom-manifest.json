@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "86a6bfb16abc42b72bba39b052339e969aeb61f718598fc1c8121d9e2d8cf898",
-    "current": "86a6bfb16abc42b72bba39b052339e969aeb61f718598fc1c8121d9e2d8cf898"
+    "previous": "c012ae50091fdcb89b453105915b2604613d9c50430338491da43d8bc1705f5e",
+    "current": "c012ae50091fdcb89b453105915b2604613d9c50430338491da43d8bc1705f5e"
   },
   "fonts": [
-    "dist/fonts/gaia-fontawesome_86a6bfb16abc42b72bba39b052339e96.ttf",
-    "dist/fonts/gaia-fontawesome_86a6bfb16abc42b72bba39b052339e96.svg",
-    "dist/fonts/gaia-fontawesome_86a6bfb16abc42b72bba39b052339e96.woff",
-    "dist/fonts/gaia-fontawesome_86a6bfb16abc42b72bba39b052339e96.eot",
-    "dist/fonts/gaia-fontawesome_86a6bfb16abc42b72bba39b052339e96.woff2"
+    "dist/fonts/gaia-fontawesome_c012ae50091fdcb89b453105915b2604.ttf",
+    "dist/fonts/gaia-fontawesome_c012ae50091fdcb89b453105915b2604.svg",
+    "dist/fonts/gaia-fontawesome_c012ae50091fdcb89b453105915b2604.woff",
+    "dist/fonts/gaia-fontawesome_c012ae50091fdcb89b453105915b2604.eot",
+    "dist/fonts/gaia-fontawesome_c012ae50091fdcb89b453105915b2604.woff2"
   ],
   "glyphs": {
     "add-imovel": {
@@ -211,6 +211,10 @@
       "codepoint": 61777,
       "source": "svg/hide-01.svg"
     },
+    "home-o": {
+      "codepoint": 61792,
+      "source": "svg/home-o.svg"
+    },
     "houses-01": {
       "codepoint": 61739,
       "source": "svg/houses-01.svg"
@@ -235,6 +239,10 @@
       "codepoint": 61743,
       "source": "svg/launch-01.svg"
     },
+    "list-o": {
+      "codepoint": 61793,
+      "source": "svg/list-o.svg"
+    },
     "man-at-computer-01": {
       "codepoint": 61744,
       "source": "svg/man-at-computer-01.svg"
@@ -246,6 +254,10 @@
     "map-marker-home-o": {
       "codepoint": 61787,
       "source": "svg/map-marker-home-o.svg"
+    },
+    "map-pin": {
+      "codepoint": 61794,
+      "source": "svg/map-pin.svg"
     },
     "menu-circles-01": {
       "codepoint": 61746,
@@ -370,6 +382,10 @@
     "tempo-01": {
       "codepoint": 61770,
       "source": "svg/tempo-01.svg"
+    },
+    "th-03": {
+      "codepoint": 61795,
+      "source": "svg/th-03.svg"
     },
     "tim-01": {
       "codepoint": 61771,
