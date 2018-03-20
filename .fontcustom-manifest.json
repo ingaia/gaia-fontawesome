@@ -1,13 +1,14 @@
 {
   "checksum": {
-    "previous": "8e8bbd43648cfdc651c5936d3f7a74ff1ded41185ee08cbce38f539a103d8056",
-    "current": "8e8bbd43648cfdc651c5936d3f7a74ff1ded41185ee08cbce38f539a103d8056"
+    "previous": "86a6bfb16abc42b72bba39b052339e969aeb61f718598fc1c8121d9e2d8cf898",
+    "current": "86a6bfb16abc42b72bba39b052339e969aeb61f718598fc1c8121d9e2d8cf898"
   },
   "fonts": [
-    "dist/fonts/gaia-fontawesome_8e8bbd43648cfdc651c5936d3f7a74ff.ttf",
-    "dist/fonts/gaia-fontawesome_8e8bbd43648cfdc651c5936d3f7a74ff.svg",
-    "dist/fonts/gaia-fontawesome_8e8bbd43648cfdc651c5936d3f7a74ff.woff",
-    "dist/fonts/gaia-fontawesome_8e8bbd43648cfdc651c5936d3f7a74ff.eot"
+    "dist/fonts/gaia-fontawesome_86a6bfb16abc42b72bba39b052339e96.ttf",
+    "dist/fonts/gaia-fontawesome_86a6bfb16abc42b72bba39b052339e96.svg",
+    "dist/fonts/gaia-fontawesome_86a6bfb16abc42b72bba39b052339e96.woff",
+    "dist/fonts/gaia-fontawesome_86a6bfb16abc42b72bba39b052339e96.eot",
+    "dist/fonts/gaia-fontawesome_86a6bfb16abc42b72bba39b052339e96.woff2"
   ],
   "glyphs": {
     "add-imovel": {
@@ -395,6 +396,8 @@
     "autowidth": true,
     "base64": true,
     "config": "fontcustom.yml",
+    "copyright": "",
+    "css3": false,
     "css_selector": ".ga-{{glyph}}",
     "debug": false,
     "font_ascent": 448,
