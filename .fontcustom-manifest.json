@@ -1,27 +1,43 @@
 {
   "checksum": {
-    "previous": "c012ae50091fdcb89b453105915b2604613d9c50430338491da43d8bc1705f5e",
-    "current": "c012ae50091fdcb89b453105915b2604613d9c50430338491da43d8bc1705f5e"
+    "previous": "9998326ac0653d280e15dc285c7d510084e5693889623901ecd9de08d58c32f6",
+    "current": "9998326ac0653d280e15dc285c7d510084e5693889623901ecd9de08d58c32f6"
   },
   "fonts": [
-    "dist/fonts/gaia-fontawesome_c012ae50091fdcb89b453105915b2604.ttf",
-    "dist/fonts/gaia-fontawesome_c012ae50091fdcb89b453105915b2604.svg",
-    "dist/fonts/gaia-fontawesome_c012ae50091fdcb89b453105915b2604.woff",
-    "dist/fonts/gaia-fontawesome_c012ae50091fdcb89b453105915b2604.eot",
-    "dist/fonts/gaia-fontawesome_c012ae50091fdcb89b453105915b2604.woff2"
+    "dist/fonts/gaia-fontawesome_9998326ac0653d280e15dc285c7d5100.ttf",
+    "dist/fonts/gaia-fontawesome_9998326ac0653d280e15dc285c7d5100.svg",
+    "dist/fonts/gaia-fontawesome_9998326ac0653d280e15dc285c7d5100.woff",
+    "dist/fonts/gaia-fontawesome_9998326ac0653d280e15dc285c7d5100.eot",
+    "dist/fonts/gaia-fontawesome_9998326ac0653d280e15dc285c7d5100.woff2"
   ],
   "glyphs": {
     "add-imovel": {
       "codepoint": 61775,
       "source": "svg/add-imovel.svg"
     },
+    "address-01": {
+      "codepoint": 61796,
+      "source": "svg/address-01.svg"
+    },
     "agenda-01": {
       "codepoint": 61696,
       "source": "svg/agenda-01.svg"
     },
+    "align-justify": {
+      "codepoint": 61797,
+      "source": "svg/align-justify.svg"
+    },
     "area-01": {
       "codepoint": 61697,
       "source": "svg/area-01.svg"
+    },
+    "area-02": {
+      "codepoint": 61798,
+      "source": "svg/area-02.svg"
+    },
+    "arrow-down-01": {
+      "codepoint": 61799,
+      "source": "svg/arrow-down-01.svg"
     },
     "arrow-left-01": {
       "codepoint": 61698,
@@ -31,6 +47,10 @@
       "codepoint": 61699,
       "source": "svg/arrow-right-01.svg"
     },
+    "arrow-up-01": {
+      "codepoint": 61800,
+      "source": "svg/arrow-up-01.svg"
+    },
     "bathroom-01": {
       "codepoint": 61700,
       "source": "svg/bathroom-01.svg"
@@ -39,9 +59,21 @@
       "codepoint": 61701,
       "source": "svg/bathroom-02.svg"
     },
+    "bathroom-03": {
+      "codepoint": 61801,
+      "source": "svg/bathroom-03.svg"
+    },
+    "bathroom-04": {
+      "codepoint": 61802,
+      "source": "svg/bathroom-04.svg"
+    },
     "bedrooms-01": {
       "codepoint": 61702,
       "source": "svg/bedrooms-01.svg"
+    },
+    "bedrooms-02": {
+      "codepoint": 61803,
+      "source": "svg/bedrooms-02.svg"
     },
     "broken-cam-01": {
       "codepoint": 61703,
@@ -54,6 +86,10 @@
     "calendar-01": {
       "codepoint": 61704,
       "source": "svg/calendar-01.svg"
+    },
+    "calendar-02": {
+      "codepoint": 61804,
+      "source": "svg/calendar-02.svg"
     },
     "calendar-check-01": {
       "codepoint": 61705,
@@ -95,6 +131,10 @@
       "codepoint": 61714,
       "source": "svg/check-03.svg"
     },
+    "check-04": {
+      "codepoint": 61805,
+      "source": "svg/check-04.svg"
+    },
     "claro-01": {
       "codepoint": 61715,
       "source": "svg/claro-01.svg"
@@ -131,6 +171,10 @@
       "codepoint": 61723,
       "source": "svg/commercial-02.svg"
     },
+    "condo-02": {
+      "codepoint": 61806,
+      "source": "svg/condo-02.svg"
+    },
     "condominios-01": {
       "codepoint": 61724,
       "source": "svg/condominios-01.svg"
@@ -147,6 +191,10 @@
       "codepoint": 61783,
       "source": "svg/couch-o.svg"
     },
+    "couch-o-02": {
+      "codepoint": 61807,
+      "source": "svg/couch-o-02.svg"
+    },
     "dashboard-01": {
       "codepoint": 61726,
       "source": "svg/dashboard-01.svg"
@@ -162,6 +210,14 @@
     "doc-01": {
       "codepoint": 61729,
       "source": "svg/doc-01.svg"
+    },
+    "doc-02": {
+      "codepoint": 61808,
+      "source": "svg/doc-02.svg"
+    },
+    "doc-03": {
+      "codepoint": 61809,
+      "source": "svg/doc-03.svg"
     },
     "doc-upload-01": {
       "codepoint": 61730,
@@ -199,6 +255,10 @@
       "codepoint": 61736,
       "source": "svg/garage-02.svg"
     },
+    "garage-03": {
+      "codepoint": 61810,
+      "source": "svg/garage-03.svg"
+    },
     "google-01": {
       "codepoint": 61737,
       "source": "svg/google-01.svg"
@@ -206,6 +266,14 @@
     "hand-01": {
       "codepoint": 61738,
       "source": "svg/hand-01.svg"
+    },
+    "heart-01": {
+      "codepoint": 61811,
+      "source": "svg/heart-01.svg"
+    },
+    "heart-02": {
+      "codepoint": 61812,
+      "source": "svg/heart-02.svg"
     },
     "hide-01": {
       "codepoint": 61777,
@@ -222,6 +290,10 @@
     "houses-bookmark-01": {
       "codepoint": 61778,
       "source": "svg/houses-bookmark-01.svg"
+    },
+    "image-01": {
+      "codepoint": 61813,
+      "source": "svg/image-01.svg"
     },
     "industrial-building-01": {
       "codepoint": 61740,
@@ -251,6 +323,10 @@
       "codepoint": 61745,
       "source": "svg/map-01.svg"
     },
+    "map-02": {
+      "codepoint": 61814,
+      "source": "svg/map-02.svg"
+    },
     "map-marker-home-o": {
       "codepoint": 61787,
       "source": "svg/map-marker-home-o.svg"
@@ -278,6 +354,10 @@
     "money-01": {
       "codepoint": 61749,
       "source": "svg/money-01.svg"
+    },
+    "money-02": {
+      "codepoint": 61815,
+      "source": "svg/money-02.svg"
     },
     "money-user-02": {
       "codepoint": 61750,
@@ -311,6 +391,10 @@
       "codepoint": 61756,
       "source": "svg/partner-03.svg"
     },
+    "pet-01": {
+      "codepoint": 61816,
+      "source": "svg/pet-01.svg"
+    },
     "plan": {
       "codepoint": 61784,
       "source": "svg/plan.svg"
@@ -323,6 +407,10 @@
       "codepoint": 61758,
       "source": "svg/popup-01.svg"
     },
+    "proposal-01": {
+      "codepoint": 61817,
+      "source": "svg/proposal-01.svg"
+    },
     "radar-01": {
       "codepoint": 61759,
       "source": "svg/radar-01.svg"
@@ -330,6 +418,10 @@
     "radar-02": {
       "codepoint": 61760,
       "source": "svg/radar-02.svg"
+    },
+    "reform-01": {
+      "codepoint": 61818,
+      "source": "svg/reform-01.svg"
     },
     "reorder-01": {
       "codepoint": 61776,
@@ -363,9 +455,17 @@
       "codepoint": 61766,
       "source": "svg/security-01.svg"
     },
+    "send-01": {
+      "codepoint": 61819,
+      "source": "svg/send-01.svg"
+    },
     "share-01": {
       "codepoint": 61781,
       "source": "svg/share-01.svg"
+    },
+    "share-02": {
+      "codepoint": 61820,
+      "source": "svg/share-02.svg"
     },
     "shop-01": {
       "codepoint": 61767,
@@ -395,9 +495,17 @@
       "codepoint": 61789,
       "source": "svg/tour.svg"
     },
+    "tour-02": {
+      "codepoint": 61821,
+      "source": "svg/tour-02.svg"
+    },
     "tower-01": {
       "codepoint": 61772,
       "source": "svg/tower-01.svg"
+    },
+    "user-01": {
+      "codepoint": 61822,
+      "source": "svg/user-01.svg"
     },
     "vivo-01": {
       "codepoint": 61773,
