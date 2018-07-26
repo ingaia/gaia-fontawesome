@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "1a436b91dd9c7632ea1846ee157e458e00c0ae460fecba5eb1148fbee1422fe9",
-    "current": "1a436b91dd9c7632ea1846ee157e458e00c0ae460fecba5eb1148fbee1422fe9"
+    "previous": "c2a44988b2da9c83d2302d0e168a2b6fd30ae670698169231c7571b87d32c1dd",
+    "current": "c2a44988b2da9c83d2302d0e168a2b6fd30ae670698169231c7571b87d32c1dd"
   },
   "fonts": [
-    "dist/fonts/gaia-fontawesome_1a436b91dd9c7632ea1846ee157e458e.ttf",
-    "dist/fonts/gaia-fontawesome_1a436b91dd9c7632ea1846ee157e458e.svg",
-    "dist/fonts/gaia-fontawesome_1a436b91dd9c7632ea1846ee157e458e.woff",
-    "dist/fonts/gaia-fontawesome_1a436b91dd9c7632ea1846ee157e458e.eot",
-    "dist/fonts/gaia-fontawesome_1a436b91dd9c7632ea1846ee157e458e.woff2"
+    "dist/fonts/gaia-fontawesome_c2a44988b2da9c83d2302d0e168a2b6f.ttf",
+    "dist/fonts/gaia-fontawesome_c2a44988b2da9c83d2302d0e168a2b6f.svg",
+    "dist/fonts/gaia-fontawesome_c2a44988b2da9c83d2302d0e168a2b6f.woff",
+    "dist/fonts/gaia-fontawesome_c2a44988b2da9c83d2302d0e168a2b6f.eot",
+    "dist/fonts/gaia-fontawesome_c2a44988b2da9c83d2302d0e168a2b6f.woff2"
   ],
   "glyphs": {
     "add-imovel": {
@@ -35,6 +35,10 @@
       "codepoint": 61799,
       "source": "svg/arrow-down-01.svg"
     },
+    "arrow-down-02": {
+      "codepoint": 61824,
+      "source": "svg/arrow-down-02.svg"
+    },
     "arrow-left-01": {
       "codepoint": 61698,
       "source": "svg/arrow-left-01.svg"
@@ -46,6 +50,10 @@
     "arrow-up-01": {
       "codepoint": 61800,
       "source": "svg/arrow-up-01.svg"
+    },
+    "arrow-up-02": {
+      "codepoint": 61825,
+      "source": "svg/arrow-up-02.svg"
     },
     "bathroom-01": {
       "codepoint": 61700,
@@ -78,6 +86,10 @@
     "building-car": {
       "codepoint": 61782,
       "source": "svg/building-car.svg"
+    },
+    "calculator": {
+      "codepoint": 61826,
+      "source": "svg/calculator.svg"
     },
     "calendar-01": {
       "codepoint": 61704,
