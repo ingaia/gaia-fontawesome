@@ -1,11 +1,11 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <!--
-2018-8-13: Created with FontForge (http://fontforge.org)
+2018-8-14: Created with FontForge (http://fontforge.org)
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20160407 at Mon Aug 13 11:16:36 2018
+Created by FontForge 20160407 at Tue Aug 14 16:32:41 2018
  By Patricia Macedo
 
 </metadata>
@@ -425,9 +425,9 @@ c18 6 35 11 48 15c4 1 7 3 7 7v312c0 4 -3 7 -7 7c0 0 -14 -3 -35 -9v0l-9 -3c-51 -1
 v312c0 18 16 33 34 37c57 12 166 47 214 58c18 4 33 -15 33 -33v-9c13 4 26 6 35 8zM102 355c39 8 102 27 153 42v17c0 4 -3 7 -7 7c0 0 -161 -43 -208 -56c-11 -3 -14 -11 -14 -20v-305c0 -4 4 -9 8 -8c11 2 22 6 34 9v277c0 18 16 33 34 37z" />
     <glyph glyph-name="residential-01" unicode="&#xf141;" horiz-adv-x="511" 
 d="M440 216v0v-205h-229v168h-81v-168h-59v205l92 66l92 66l92 -66zM388 76v0v103h-118v-103h118zM416 299l95 -67l-21 -21l-235 161l-234 -161l-21 21l255 181l114 -81v68h47v-101z" />
-    <glyph glyph-name="residential-02" unicode="&#xf185;" horiz-adv-x="454" 
-d="M0 -41v466h419v-466h-419zM449 271c3 -2 5 -5 5 -9v-256c0 -16 -6 -30 -17 -41s-25 -17 -41 -17h-326c-16 0 -30 6 -41 17s-17 25 -17 41v256c0 4 1 7 4 9l210 163c4 3 10 3 14 0zM291 -29v209h-116v-209h116zM431 6v250l-198 154l-198 -154v-250c0 -9 3 -19 10 -25
-s16 -10 25 -10h81v221c0 6 6 12 12 12h140c6 0 11 -6 11 -12v-221h82c9 0 18 3 24 10s11 16 11 25z" />
+    <glyph glyph-name="residential-02" unicode="&#xf185;" horiz-adv-x="442" 
+d="M438 271c3 -2 4 -5 4 -9v-256c0 -16 -6 -30 -17 -41s-25 -17 -41 -17h-326c-16 0 -30 6 -41 17s-17 25 -17 41v256c0 4 2 7 5 9l209 163c4 3 10 3 14 0zM279 -29v209h-116v-209h116zM419 6v250l-198 154l-198 -154v-250c0 -9 3 -19 10 -25s16 -10 25 -10h82v221
+c0 6 5 12 11 12h140c6 0 12 -6 12 -12v-221h81c9 0 19 3 25 10s10 16 10 25z" />
     <glyph glyph-name="whatsapp-01" unicode="&#xf14e;" horiz-adv-x="440" 
 d="M376 358c41 -41 64 -96 64 -155c0 -121 -98 -219 -219 -219v0v0c-37 0 -73 10 -105 27l-116 -30l31 113c-19 33 -29 70 -29 109c0 121 98 219 219 219c59 0 114 -23 155 -64zM221 21c100 0 182 82 182 182c0 49 -19 95 -53 129s-80 53 -129 53c-100 0 -182 -82 -182 -182
 c0 -34 10 -67 28 -96l4 -7l-18 -67l68 18l7 -4c28 -17 60 -26 93 -26v0zM321 158c5 -3 9 -5 10 -7s2 -13 -3 -26s-26 -24 -37 -26c-9 -1 -21 -2 -34 2c-8 3 -19 6 -32 12c-55 24 -90 78 -93 82s-22 30 -22 57s14 41 19 46s10 7 14 7s8 -1 11 -1s8 2 12 -9
