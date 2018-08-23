@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "06a6d2f3baf456990b6482f74200618ff09349188e4ede770a083de3c1665a2c",
-    "current": "06a6d2f3baf456990b6482f74200618ff09349188e4ede770a083de3c1665a2c"
+    "previous": "82de3a84b869a5b78ee0d6200fd093f904bf36dbf678119f77eb4c71449fb114",
+    "current": "82de3a84b869a5b78ee0d6200fd093f904bf36dbf678119f77eb4c71449fb114"
   },
   "fonts": [
-    "dist/fonts/gaia-fontawesome_06a6d2f3baf456990b6482f74200618f.ttf",
-    "dist/fonts/gaia-fontawesome_06a6d2f3baf456990b6482f74200618f.svg",
-    "dist/fonts/gaia-fontawesome_06a6d2f3baf456990b6482f74200618f.woff",
-    "dist/fonts/gaia-fontawesome_06a6d2f3baf456990b6482f74200618f.eot",
-    "dist/fonts/gaia-fontawesome_06a6d2f3baf456990b6482f74200618f.woff2"
+    "dist/fonts/gaia-fontawesome_82de3a84b869a5b78ee0d6200fd093f9.ttf",
+    "dist/fonts/gaia-fontawesome_82de3a84b869a5b78ee0d6200fd093f9.svg",
+    "dist/fonts/gaia-fontawesome_82de3a84b869a5b78ee0d6200fd093f9.woff",
+    "dist/fonts/gaia-fontawesome_82de3a84b869a5b78ee0d6200fd093f9.eot",
+    "dist/fonts/gaia-fontawesome_82de3a84b869a5b78ee0d6200fd093f9.woff2"
   ],
   "glyphs": {
     "add-imovel": {
@@ -502,6 +502,10 @@
     "sun-01": {
       "codepoint": 61769,
       "source": "svg/sun-01.svg"
+    },
+    "sun-02": {
+      "codepoint": 61831,
+      "source": "svg/sun-02.svg"
     },
     "table-01": {
       "codepoint": 61830,
